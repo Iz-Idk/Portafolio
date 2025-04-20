@@ -1,0 +1,1500 @@
+[
+    {
+        "URL": "https://mx.investing.com/equities/american-airlines-group?cid=8095",
+        "Nombre": "American Airlines Group (AAL)",
+        "Ticker": "AAL",
+        "Industria": "Servicios de transporte de pasajeros",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/buckeye-technologies-inc",
+        "Nombre": "Black Knight Inc (BKIN)",
+        "Ticker": "BKIN",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/oma-b",
+        "Nombre": "Grupo Aeroportuario Del CentroNorte (OMAB)",
+        "Ticker": "OMAB",
+        "Industria": "Infraestructura de transporte",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-aeroportuario-del-pacifico-b",
+        "Nombre": "Grupo Aeroportuario del Pacifico SAB De CV Class B (GAPB)",
+        "Ticker": "GAPB",
+        "Industria": "Infraestructura de transporte",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-radio-centro-a",
+        "Nombre": "Grupo Radio Centro Sab De CV (RCENTROA)",
+        "Ticker": "RCENTROA",
+        "Industria": "Medios de comunicación y edición",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/homex",
+        "Nombre": "Desarrolladora Homex SAB de CV (HOMEX)",
+        "Ticker": "HOMEX",
+        "Industria": "Operaciones Inmobiliarias",
+        "Sector": "Inmobiliaria"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/gen-motors?cid=26969",
+        "Nombre": "General Motors Company (GM)",
+        "Ticker": "GM",
+        "Industria": "Automóviles y piezas de automóviles",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/abb-ltd-adr?cid=26976",
+        "Nombre": "ABB Ltd (ABBN)",
+        "Ticker": "ABBN",
+        "Industria": "Maquinaria, herramientas, vehículos pesados, trenes y barcos",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/daimler?cid=26984",
+        "Nombre": "Mercedes Benz Group AG (MBGN)",
+        "Ticker": "MBGN",
+        "Industria": "Automóviles y piezas de automóviles",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/france-telecom-sa?cid=26989",
+        "Nombre": "Orange SA ADR (ORANN)",
+        "Ticker": "ORANN",
+        "Industria": "Servicios de telecomunicaciones",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/sanofi?cid=26991",
+        "Nombre": "Sanofi ADR (SNYN)",
+        "Ticker": "SNYN",
+        "Industria": "Productos farmacéuticos",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/bbva?cid=26993",
+        "Nombre": "Banco Bilbao Vizcaya Argentaria SA (BBVA)",
+        "Ticker": "BBVA",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/telefonica-s-a-ny?cid=26995",
+        "Nombre": "Telefonica SA ADR (TEFN)",
+        "Ticker": "TEFN",
+        "Industria": "Servicios de telecomunicaciones",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/bhp-billiton-ltd-nyse-exch?cid=26997",
+        "Nombre": "BHP Group Ltd ADR (BHPN)",
+        "Ticker": "BHPN",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/nokia-corp-exch?cid=26998",
+        "Nombre": "Nokia Corp ADR (NOKN)",
+        "Ticker": "NOKN",
+        "Industria": "Comunicaciones y redes",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/sap-ag-ads-exch?cid=26999",
+        "Nombre": "SAP SE ADR (SAPN)",
+        "Ticker": "SAPN",
+        "Industria": "Software y servicios informáticos",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/vodafone-group-plc-exch?cid=27000",
+        "Nombre": "Vodafone Group PLC ADR (VODN)",
+        "Ticker": "VODN",
+        "Industria": "Servicios de telecomunicaciones",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/teva-pharmaceutical-inds-ltd?cid=27001",
+        "Nombre": "Teva Pharma Industries Ltd ADR (TEVAN)",
+        "Ticker": "TEVAN",
+        "Industria": "Productos farmacéuticos",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/research-in-motion-ltd?cid=27002",
+        "Nombre": "BlackBerry Ltd (BBN)",
+        "Ticker": "BBN",
+        "Industria": "Software y servicios informáticos",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/unilever-adr?cid=27003",
+        "Nombre": "Unilever PLC ADR (ULN)",
+        "Ticker": "ULN",
+        "Industria": "Productos y servicios personales y para el hogar",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/tenaris?cid=27004",
+        "Nombre": "Tenaris SA (TS)",
+        "Ticker": "TS",
+        "Industria": "Equipos y servicios relacionados con el petróleo y el gas",
+        "Sector": "Energía"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/eni-spa?cid=27005",
+        "Nombre": "Eni SpA ADR (EN)",
+        "Ticker": "EN",
+        "Industria": "Gas de petróleo",
+        "Sector": "Energía"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/petroleo-bras?cid=27009",
+        "Nombre": "Petroleo Brasileiro Petrobras SA ADR (PBRN)",
+        "Ticker": "PBRN",
+        "Industria": "Gas de petróleo",
+        "Sector": "Energía"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-televisa-cp",
+        "Nombre": "Grupo Televisa SAB Unit (TLEVISACPO)",
+        "Ticker": "TLEVISACPO",
+        "Industria": "Medios de comunicación y edición",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/america-movil-l",
+        "Nombre": "America Movil SAB de CV M (AMXB)",
+        "Ticker": "AMXB",
+        "Industria": "Servicios de telecomunicaciones",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/asur--b",
+        "Nombre": "Grupo Aeroportuario Del Sureste (ASURB)",
+        "Ticker": "ASURB",
+        "Industria": "Infraestructura de transporte",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/coca-cola-femsa-l",
+        "Nombre": "Coca-Cola Femsa SAB de CV (KOFUBL)",
+        "Ticker": "KOFUBL",
+        "Industria": "Bebidas",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/transocea-ltd?cid=27017",
+        "Nombre": "Transocean Ltd (RIGN)",
+        "Ticker": "RIGN",
+        "Industria": "Equipos y servicios relacionados con el petróleo y el gas",
+        "Sector": "Energía"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/gruma-sab-adr?cid=27018",
+        "Nombre": "Gruma SAB de CV (GRUMAB)",
+        "Ticker": "GRUMAB",
+        "Industria": "Alimentación y tabaco",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/china-unicom-(hong-kong)-ltd",
+        "Nombre": "China Unicom Ltd (CHUN)",
+        "Ticker": "CHUN",
+        "Industria": "Servicios de telecomunicaciones",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/cemex-cpo",
+        "Nombre": "Cemex SAB de CV (CEMEXCPO)",
+        "Ticker": "CEMEXCPO",
+        "Industria": "Materiales de construcción",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/empresas-ica",
+        "Nombre": "Empresas ICA SAB De CV (ICA)",
+        "Ticker": "ICA",
+        "Industria": "Construcción e ingeniería",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/fresnillo?cid=27027",
+        "Nombre": "Fresnillo PLC (FRES)",
+        "Ticker": "FRES",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/vale-s.a.--americ?cid=27028",
+        "Nombre": "Vale SA ADR (VALEN)",
+        "Ticker": "VALEN",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/barrick-gold-corp.?cid=27030",
+        "Nombre": "Barrick Gold Corp (GOLDN)",
+        "Ticker": "GOLDN",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/magna-international?cid=27032",
+        "Nombre": "Magna International Inc (MGAN)",
+        "Ticker": "MGAN",
+        "Industria": "Automóviles y piezas de automóviles",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/ambev-prf-adr?cid=27033",
+        "Nombre": "Ambev SA ADR (ABEVN)",
+        "Ticker": "ABEVN",
+        "Industria": "Bebidas",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/banco-bradesco-adr?cid=27034",
+        "Nombre": "Banco Bradesco SA ADR (BBDN)",
+        "Ticker": "BBDN",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/brf-brasil-foods-sa?cid=27035",
+        "Nombre": "BRF SA ADR (BRFSN)",
+        "Ticker": "BRFSN",
+        "Industria": "Alimentación y tabaco",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/braskem?cid=27036",
+        "Nombre": "Braskem SA Class A (BAKN)",
+        "Ticker": "BAKN",
+        "Industria": "Productos químicos",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/energetica-minas-gerais?cid=27037",
+        "Nombre": "Energy of Minas Gerais Co (CIGN)",
+        "Ticker": "CIGN",
+        "Industria": "Compañías eléctricas y PPI",
+        "Sector": "Servicios públicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/national-steel-comp?cid=27039",
+        "Nombre": "Companhia Siderurgica Nacional ADR (SIDN)",
+        "Ticker": "SIDN",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/embraer-sa?cid=27040",
+        "Nombre": "Embraer SA ADR (ERJN)",
+        "Ticker": "ERJN",
+        "Industria": "Aeroespacial y Defensa",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/gerdau-sa-adr?cid=27042",
+        "Nombre": "Gerdau SA ADR (GGBN)",
+        "Ticker": "GGBN",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/itau-unibanco-holding-sa-adr?cid=27044",
+        "Nombre": "Itau Unibanco Banco Holding SA (ITUBN)",
+        "Ticker": "ITUBN",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/ecopetrol-sa-adr?cid=27050",
+        "Nombre": "Ecopetrol SA ADR (ECN)",
+        "Ticker": "ECN",
+        "Industria": "Gas de petróleo",
+        "Sector": "Energía"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/royal-bank-of-canada-rbc?cid=27059",
+        "Nombre": "Royal Bank of Canada (RYN)",
+        "Ticker": "RYN",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-financiero-multiva",
+        "Nombre": "Grupo Financiero Multiva SAB De CV (GFMULTIO)",
+        "Ticker": "GFMULTIO",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/accel-b",
+        "Nombre": "Accel, S.A.B. De C.V. (ACCELSAB)",
+        "Ticker": "ACCELSAB",
+        "Industria": "Servicios de carga y logística",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/actinver-b",
+        "Nombre": "Corporacion Actinver, SAB De CV (ACTINVRB)",
+        "Ticker": "ACTINVRB",
+        "Industria": "Banca y servicios de inversión",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/alfa-a",
+        "Nombre": "Alfa, S.A.B. De C.V. (ALFAA)",
+        "Ticker": "ALFAA",
+        "Industria": "Conglomerados de bienes de consumo",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/alsea",
+        "Nombre": "Alsea, S.A.B. De C.V. (ALSEA)",
+        "Ticker": "ALSEA",
+        "Industria": "Hoteles y servicios de ocio",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/arca-continental",
+        "Nombre": "Arca Continental, S.A.B. De C.V. (AC)",
+        "Ticker": "AC",
+        "Industria": "Bebidas",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/axtel-cpo",
+        "Nombre": "Axtel CPO, S.A.B. De C.V. (AXTELCPO)",
+        "Ticker": "AXTELCPO",
+        "Industria": "Servicios de telecomunicaciones",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/bafar-b",
+        "Nombre": "Grupo Bafar, S.A.B. De C.V. (BAFARB)",
+        "Ticker": "BAFARB",
+        "Industria": "Alimentación y tabaco",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/banco-santander-brazil-adr?cid=27073",
+        "Nombre": "Banco Santander Brasil SA ADR (BSBRN)",
+        "Ticker": "BSBRN",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/banregio-grupo-financiero-o",
+        "Nombre": "Regional SAB de CV (RA)",
+        "Ticker": "RA",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/bimbo-a",
+        "Nombre": "Grupo Bimbo, S.A.B. De C.V. (BIMBOA)",
+        "Ticker": "BIMBOA",
+        "Industria": "Alimentación y tabaco",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/bolsa-mexicana-de-valores-a",
+        "Nombre": "Bolsa Mexicana De Valores SAB De CV (BOLSAA)",
+        "Ticker": "BOLSAA",
+        "Industria": "Banca y servicios de inversión",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/cie-b",
+        "Nombre": "Corporacion Interamericana de Entretenimiento SAB de CV (CIEB)",
+        "Ticker": "CIEB",
+        "Industria": "Hoteles y servicios de ocio",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/fomento-economico-ub",
+        "Nombre": "Fomento Economico Mexicano UB (FEMSAUB)",
+        "Ticker": "FEMSAUB",
+        "Industria": "Comercio minorista de alimentación y droguería",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/collado-sa",
+        "Nombre": "G Collado SAB de CV (COLLADO)",
+        "Ticker": "COLLADO",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/compartamos",
+        "Nombre": "Gentera SAB de CV (GENTERA)",
+        "Ticker": "GENTERA",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/consorcio-ara",
+        "Nombre": "Consorcio Ara, S.A.B. De C.V. (ARA)",
+        "Ticker": "ARA",
+        "Industria": "Operaciones Inmobiliarias",
+        "Sector": "Inmobiliaria"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/cydsa-a",
+        "Nombre": "Cydsa, S.A.B. De C.V. (CYDSASAA)",
+        "Ticker": "CYDSASAA",
+        "Industria": "Productos químicos",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/dine-a",
+        "Nombre": "Dine A, S.A.B. De C.V. (DINEA)",
+        "Ticker": "DINEA",
+        "Industria": "Operaciones Inmobiliarias",
+        "Sector": "Inmobiliaria"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/dine-b",
+        "Nombre": "Dine B, S.A.B. De C.V. (DINEB)",
+        "Ticker": "DINEB",
+        "Industria": "Operaciones Inmobiliarias",
+        "Sector": "Inmobiliaria"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/edoardos-martin-b",
+        "Nombre": "Edoardos Martin, S.A.B. De C.V. (EDOARDOB)",
+        "Ticker": "EDOARDOB",
+        "Industria": "Textil y confección",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/el-puerto-de-liverpool",
+        "Nombre": "El Puerto De Liverpool, SAB De CV (LIVEPOL1)",
+        "Ticker": "LIVEPOL1",
+        "Industria": "Venta al por menor diversificada",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/el-puerto-de-liverpool-c",
+        "Nombre": "El Puerto De Liverpool Sab De CV (LIVEPOLC1)",
+        "Ticker": "LIVEPOLC1",
+        "Industria": "Venta al por menor diversificada",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/elektra",
+        "Nombre": "Grupo Elektra, S.A.B. De C.V. (ELEKTRA)",
+        "Ticker": "ELEKTRA",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/organizacion-cultiba",
+        "Nombre": "Organizacion Cultiba, S.A.B. De CV (CULTIBAB)",
+        "Ticker": "CULTIBAB",
+        "Industria": "Bebidas",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/empresas-cablevision",
+        "Nombre": "Empresas Cablevision, S.A. De C.V. (CABLECPO)",
+        "Ticker": "CABLECPO",
+        "Industria": "Medios de comunicación y edición",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/farmacias-benavides-b",
+        "Nombre": "Farmacias Benavides B, SAB De CV (BEVIDESB)",
+        "Ticker": "BEVIDESB",
+        "Industria": "Comercio minorista de alimentación y droguería",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/finamex-o",
+        "Nombre": "Casa De Bolsa Finamex, SAB De CV (FINAMEXO)",
+        "Ticker": "FINAMEXO",
+        "Industria": "Banca y servicios de inversión",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/financiera-independencia",
+        "Nombre": "Financiera Independencia SAB De CV (FINDEP)",
+        "Ticker": "FINDEP",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/financiero-banorte",
+        "Nombre": "Grupo Financiero Banorte (GFNORTEO)",
+        "Ticker": "GFNORTEO",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/fomento-economico-mexicano-ubd",
+        "Nombre": "Fomento Economico Mexicano UBD (FEMSAUBD)",
+        "Ticker": "FEMSAUBD",
+        "Industria": "Comercio minorista de alimentación y droguería",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/fragua-b",
+        "Nombre": "Corporativo Fragua, S.A.B. De C.V. (FRAGUAB)",
+        "Ticker": "FRAGUAB",
+        "Industria": "Comercio minorista de alimentación y droguería",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/gbm-o",
+        "Nombre": "Grupo Bursatil Mexicano SA de CV Casa de Bolsa (GBMO)",
+        "Ticker": "GBMO",
+        "Industria": "Banca y servicios de inversión",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/genomma-lab-b",
+        "Nombre": "Genomma Lab Internacional SAB De CV (LABB)",
+        "Ticker": "LABB",
+        "Industria": "Productos farmacéuticos",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/gigante",
+        "Nombre": "Grupo Gigante, S.A.B. De C.V. (GIGANTE)",
+        "Ticker": "GIGANTE",
+        "Industria": "Minoristas especializados",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/gmexico",
+        "Nombre": "Grupo Mexico, S.A.B. De C.V. (GMEXICOB)",
+        "Ticker": "GMEXICOB",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupe-sab-de-cv",
+        "Nombre": "Grupe, S.A.B. De C.V. (CIDMEGA)",
+        "Ticker": "CIDMEGA",
+        "Industria": "Hoteles y servicios de ocio",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-carso-a1",
+        "Nombre": "Grupo Carso, S.A.B. De C.V. (GCARSOA1)",
+        "Ticker": "GCARSOA1",
+        "Industria": "Conglomerados de bienes de consumo",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-cementos",
+        "Nombre": "GCC SAB de CV (GCC)",
+        "Ticker": "GCC",
+        "Industria": "Materiales de construcción",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-comercial-chedraui-b",
+        "Nombre": "Grupo Comercial Chedraui, SAB De CV (CHDRAUIB)",
+        "Ticker": "CHDRAUIB",
+        "Industria": "Comercio minorista de alimentación y droguería",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-famsa-a",
+        "Nombre": "Grupo Famsa, S.A.B. De C.V. (GFAMSAA)",
+        "Ticker": "GFAMSAA",
+        "Industria": "Venta al por menor diversificada",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-financiero-inbursa",
+        "Nombre": "Grupo Financiero Inbursa, SAB De CV (GFINBURO)",
+        "Ticker": "GFINBURO",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-mexicano-de-desarrollo-(gmd)",
+        "Nombre": "Grupo Mexicano De Desarrollo S.A.B. (GMD)",
+        "Ticker": "GMD",
+        "Industria": "Construcción e ingeniería",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-nacional-provincial",
+        "Nombre": "Grupo Nacional Provincial, S.A.B. (GNP)",
+        "Ticker": "GNP",
+        "Industria": "Seguros",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-palacio-1",
+        "Nombre": "Grupo Palacio De Hierro, SAB De CV (GPH1)",
+        "Ticker": "GPH1",
+        "Industria": "Venta al por menor diversificada",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-posadas-a",
+        "Nombre": "Grupo Posadas, S.A.B. De C.V. (POSADASA)",
+        "Ticker": "POSADASA",
+        "Industria": "Hoteles y servicios de ocio",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-profuturo",
+        "Nombre": "Grupo Profuturo, S.A.B. De C.V. (GPROFUT)",
+        "Ticker": "GPROFUT",
+        "Industria": "Inversiones colectivas",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-vasconia",
+        "Nombre": "Grupo Vasconia S.A.B. (VASCONI)",
+        "Ticker": "VASCONI",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/herdez",
+        "Nombre": "Grupo Herdez, S.A.B. De C.V. (HERDEZ)",
+        "Ticker": "HERDEZ",
+        "Industria": "Alimentación y tabaco",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/hilasal-mexicana-a",
+        "Nombre": "Himexsa SAB de CV (HIMEXSAA)",
+        "Ticker": "HIMEXSAA",
+        "Industria": "Textil y confección",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/impulsora-del-desarrollo",
+        "Nombre": "Impulsora Del Desarrollo SAB De CV (IDEALB1)",
+        "Ticker": "IDEALB1",
+        "Industria": "Infraestructura de transporte",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/industrias-ch-b",
+        "Nombre": "Industrias CH, S.A.B. De C.V. (ICHB)",
+        "Ticker": "ICHB",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/invex-control-a",
+        "Nombre": "Invex Controladora, S.A.B. De C.V. (INVEXA)",
+        "Ticker": "INVEXA",
+        "Industria": "Sociedades de cartera de inversiones",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/kimberly-clark-de-mexico-a",
+        "Nombre": "Kimberly - Clark De Mexico A (KIMBERA)",
+        "Ticker": "KIMBERA",
+        "Industria": "Productos y servicios personales y para el hogar",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/kimberly-clark-de-mexico-b",
+        "Nombre": "Kimberly - Clark De Mexico B (KIMBERB)",
+        "Ticker": "KIMBERB",
+        "Industria": "Productos y servicios personales y para el hogar",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/kuo-a",
+        "Nombre": "Grupo Kuo A, S.A.B. De C.V. (KUOA)",
+        "Ticker": "KUOA",
+        "Industria": "Conglomerados de bienes de consumo",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/kuo-b",
+        "Nombre": "Grupo Kuo B, S.A.B. De C.V. (KUOB)",
+        "Ticker": "KUOB",
+        "Industria": "Conglomerados de bienes de consumo",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/lamosa",
+        "Nombre": "Grupo Lamosa, S.A.B. De C.V. (LAMOSA)",
+        "Ticker": "LAMOSA",
+        "Industria": "Suministros para la construcción",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/mcewen-mining-inc?cid=27149",
+        "Nombre": "McEwen Mining Inc. (MUX)",
+        "Ticker": "MUX",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/medica-sur-b",
+        "Nombre": "Medica Sur, S.A.B. De C.V. (MEDICAB)",
+        "Ticker": "MEDICAB",
+        "Industria": "Proveedores y servicios sanitarios",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/megacable-cpo",
+        "Nombre": "Megacable Holdings, S.A.B. De C.V. (MEGACPO)",
+        "Ticker": "MEGACPO",
+        "Industria": "Servicios de telecomunicaciones",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/mexicana-rest-b",
+        "Nombre": "CMR, S.A.B. De C.V. (CMRB)",
+        "Ticker": "CMRB",
+        "Industria": "Hoteles y servicios de ocio",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/mexichem",
+        "Nombre": "Orbia Advance Corporation SAB de CV (ORBIA)",
+        "Ticker": "ORBIA",
+        "Industria": "Productos químicos",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/minera-autlan-b",
+        "Nombre": "Compania Minera Autlan (AUTLANB)",
+        "Ticker": "AUTLANB",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/minera-frisco",
+        "Nombre": "Minera Frisco, S.A.B. De C.V. (MFRISCOA1)",
+        "Ticker": "MFRISCOA1",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/minsa-b",
+        "Nombre": "Grupo Minsa, S.A.B. De C.V. (MINSAB)",
+        "Ticker": "MINSAB",
+        "Industria": "Alimentación y tabaco",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/ohl-mexico",
+        "Nombre": "Aleatica SAB de CV (ALEATIC)",
+        "Ticker": "ALEATIC",
+        "Industria": "Infraestructura de transporte",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/promotora-ambiental",
+        "Nombre": "Promotora Ambiental, S.A.B. De C.V. (PASAB)",
+        "Ticker": "PASAB",
+        "Industria": "Servicios profesionales y comerciales",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/penoles",
+        "Nombre": "Industrias Penoles Sab De CV (PEOLES)",
+        "Ticker": "PEOLES",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/pinfra",
+        "Nombre": "Promotora y Operadora de Infraestructura SAB de CV (PINFRA)",
+        "Ticker": "PINFRA",
+        "Industria": "Infraestructura de transporte",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/pochteca-b",
+        "Nombre": "Grupo Pochteca, S.A.B. De C.V. (POCHTECB)",
+        "Ticker": "POCHTECB",
+        "Industria": "Productos químicos",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/procorp-sa-b",
+        "Nombre": "Procorp B S.A. De C.V. (PROCORPB)",
+        "Ticker": "PROCORPB",
+        "Industria": "Sociedades de cartera de inversiones",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/simec-b",
+        "Nombre": "Grupo Simec, S.A.B. De C.V. (SIMECB)",
+        "Ticker": "SIMECB",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/soriana-b",
+        "Nombre": "Organizacion Soriana, SAB De CV (SORIANAB)",
+        "Ticker": "SORIANAB",
+        "Industria": "Comercio minorista de alimentación y droguería",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/tmm-a",
+        "Nombre": "Grupo TMM, S.A. (TMMA)",
+        "Ticker": "TMMA",
+        "Industria": "Servicios de carga y logística",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/value-gf",
+        "Nombre": "Value Grupo Financiero, SAB De CV (VALUEGFO)",
+        "Ticker": "VALUEGFO",
+        "Industria": "Banca y servicios de inversión",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/vitro-a",
+        "Nombre": "Vitro, S.A.B. De C.V. (VITROA)",
+        "Ticker": "VITROA",
+        "Industria": "Productos químicos",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/wal-mart-v",
+        "Nombre": "Wal Mart de Mexico SAB de CV (WALMEX)",
+        "Ticker": "WALMEX",
+        "Industria": "Venta al por menor diversificada",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/boeing-co?cid=29970",
+        "Nombre": "Boeing Co (BA)",
+        "Ticker": "BA",
+        "Industria": "Aeroespacial y Defensa",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/chevron?cid=29975",
+        "Nombre": "Chevron Corp (CVX)",
+        "Ticker": "CVX",
+        "Industria": "Gas de petróleo",
+        "Sector": "Energía"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/caterpillar?cid=29985",
+        "Nombre": "Caterpillar Inc (CAT)",
+        "Ticker": "CAT",
+        "Industria": "Maquinaria, herramientas, vehículos pesados, trenes y barcos",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/intel-corp?cid=29989",
+        "Nombre": "Intel Corporation (INTC)",
+        "Ticker": "INTC",
+        "Industria": "Semiconductores y equipos de semiconductores",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/microsoft-corp?cid=29993",
+        "Nombre": "Microsoft Corporation (MSFT)",
+        "Ticker": "MSFT",
+        "Industria": "Software y servicios informáticos",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/howmet-aerospace-inc?cid=29997",
+        "Nombre": "Howmet Aerospace Inc (HWM)",
+        "Ticker": "HWM",
+        "Industria": "Aeroespacial y Defensa",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/ford-motor-co?cid=30000",
+        "Nombre": "Ford Motor Company (F)",
+        "Ticker": "F",
+        "Industria": "Automóviles y piezas de automóviles",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/disney?cid=30007",
+        "Nombre": "Walt Disney Company (DIS)",
+        "Ticker": "DIS",
+        "Industria": "Medios de comunicación y edición",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/cisco-sys-inc?cid=30014",
+        "Nombre": "Cisco Systems Inc (CSCO)",
+        "Ticker": "CSCO",
+        "Industria": "Comunicaciones y redes",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/goldman-sachs-group?cid=30016",
+        "Nombre": "Goldman Sachs Group Inc (GS)",
+        "Ticker": "GS",
+        "Industria": "Banca y servicios de inversión",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/mondelez-international-inc?cid=30021",
+        "Nombre": "Mondelez International Inc (MDLZ)",
+        "Ticker": "MDLZ",
+        "Industria": "Alimentación y tabaco",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/mcdonalds?cid=30024",
+        "Nombre": "McDonald’s Corporation (MCD)",
+        "Ticker": "MCD",
+        "Industria": "Hoteles y servicios de ocio",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/merck---co?cid=30027",
+        "Nombre": "Merck & Company Inc (MRK)",
+        "Ticker": "MRK",
+        "Industria": "Productos farmacéuticos",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/3m-co?cid=30030",
+        "Nombre": "3M Company (MMM)",
+        "Ticker": "MMM",
+        "Industria": "Conglomerados de bienes de consumo",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/bp-plc?cid=30036",
+        "Nombre": "BP PLC ADR (BPN)",
+        "Ticker": "BPN",
+        "Industria": "Gas de petróleo",
+        "Sector": "Energía"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/novartis-ag?cid=30055",
+        "Nombre": "Novartis AG ADR (NVSN)",
+        "Ticker": "NVSN",
+        "Industria": "Productos farmacéuticos",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/total-s.a.?cid=30076",
+        "Nombre": "TotalEnergies SE ADR (TTEN)",
+        "Ticker": "TTEN",
+        "Industria": "Gas de petróleo",
+        "Sector": "Energía"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/ericsson-l-m-tel-co-exch?cid=30086",
+        "Nombre": "Telefonaktiebolaget LM Ericsson B ADR (ERICN)",
+        "Ticker": "ERICN",
+        "Industria": "Comunicaciones y redes",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/baidu.com?cid=30114",
+        "Nombre": "Baidu Inc (BIDUN)",
+        "Ticker": "BIDUN",
+        "Industria": "Software y servicios informáticos",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/apple-computer-inc?cid=30130",
+        "Nombre": "Apple Inc (AAPL)",
+        "Ticker": "AAPL",
+        "Industria": "Ordenadores, teléfonos y electrodomésticos",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/amazon-com-inc?cid=30137",
+        "Nombre": "Amazon.com Inc (AMZN)",
+        "Ticker": "AMZN",
+        "Industria": "Venta al por menor diversificada",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/amgen-inc?cid=30150",
+        "Nombre": "Amgen Inc (AMGN)",
+        "Ticker": "AMGN",
+        "Industria": "Productos farmacéuticos",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/astrazeneca-plc-ads?cid=30164",
+        "Nombre": "AstraZeneca PLC ADR (AZNN)",
+        "Ticker": "AZNN",
+        "Industria": "Productos farmacéuticos",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/diageo-plc?cid=30168",
+        "Nombre": "Diageo PLC ADR (DEON)",
+        "Ticker": "DEON",
+        "Industria": "Bebidas",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/rio-tinto-plc-exch?cid=30171",
+        "Nombre": "Rio Tinto ADR (RION)",
+        "Ticker": "RION",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/glaxosmithklein-exch?cid=30173",
+        "Nombre": "GSK plc DRC (GSKN)",
+        "Ticker": "GSKN",
+        "Industria": "Productos farmacéuticos",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/exxon-mobil?cid=30195",
+        "Nombre": "Exxon Mobil Corp (XOM)",
+        "Ticker": "XOM",
+        "Industria": "Gas de petróleo",
+        "Sector": "Energía"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/colgate-palmo?cid=30203",
+        "Nombre": "Colgate-Palmolive Company (CL)",
+        "Ticker": "CL",
+        "Industria": "Productos y servicios personales y para el hogar",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/du-pont?cid=30209",
+        "Nombre": "Dupont De Nemours Inc (DD)",
+        "Ticker": "DD",
+        "Industria": "Equipos y piezas electrónicas",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/pfizer?cid=30214",
+        "Nombre": "Pfizer Inc (PFE)",
+        "Ticker": "PFE",
+        "Industria": "Productos farmacéuticos",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/wal-mart-stores?cid=30216",
+        "Nombre": "Walmart Inc (WMT)",
+        "Ticker": "WMT",
+        "Industria": "Comercio minorista de alimentación y droguería",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/home-depot?cid=30224",
+        "Nombre": "Home Depot Inc (HD)",
+        "Ticker": "HD",
+        "Industria": "Minoristas especializados",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/verizon-communications?cid=30235",
+        "Nombre": "Verizon Communications Inc (VZ)",
+        "Ticker": "VZ",
+        "Industria": "Servicios de telecomunicaciones",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/bristol-myer-squiib?cid=30238",
+        "Nombre": "Bristol-Myers Squibb Company (BMY)",
+        "Ticker": "BMY",
+        "Industria": "Productos farmacéuticos",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/johnson-johnson?cid=30247",
+        "Nombre": "Johnson & Johnson (JNJ)",
+        "Ticker": "JNJ",
+        "Industria": "Productos farmacéuticos",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/american-express?cid=30249",
+        "Nombre": "American Express Company (AXP)",
+        "Ticker": "AXP",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/mits-ufj-financial-grp?cid=30252",
+        "Nombre": "Mitsubishi UFJ Financial Group Inc ADR (MUFGN)",
+        "Ticker": "MUFGN",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/general-electric?cid=30256",
+        "Nombre": "GE Aerospace (GE)",
+        "Ticker": "GE",
+        "Industria": "Aeroespacial y Defensa",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/united-tech?cid=30265",
+        "Nombre": "Rtx Corp (RTX)",
+        "Ticker": "RTX",
+        "Industria": "Aeroespacial y Defensa",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/texas-instru?cid=30274",
+        "Nombre": "Texas Instruments Incorporated (TXN)",
+        "Ticker": "TXN",
+        "Industria": "Semiconductores y equipos de semiconductores",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/hewlett-pack?cid=30277",
+        "Nombre": "HP Inc (HPQ)",
+        "Ticker": "HPQ",
+        "Industria": "Ordenadores, teléfonos y electrodomésticos",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/pepsico?cid=30290",
+        "Nombre": "PepsiCo Inc (PEP)",
+        "Ticker": "PEP",
+        "Industria": "Bebidas",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/procter-gamble?cid=30312",
+        "Nombre": "Procter & Gamble Company (PG)",
+        "Ticker": "PG",
+        "Industria": "Productos y servicios personales y para el hogar",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/alpek-sab-de-cv",
+        "Nombre": "Alpek, S.A.B. De C.V. (ALPEKA)",
+        "Ticker": "ALPEKA",
+        "Industria": "Productos químicos",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-sports",
+        "Nombre": "Grupo Sports World, S.A.B. De C.V. (SPORTS)",
+        "Ticker": "SPORTS",
+        "Industria": "Hoteles y servicios de ocio",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/qualitas-controladora-sab-de-cv",
+        "Nombre": "Qualitas Controladora, SAB De CV (Q)",
+        "Ticker": "Q",
+        "Industria": "Seguros",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/credito-real-sapi-de-cv-sofom-enr",
+        "Nombre": "Credito Real SAB De CV Sofom E.N.R. (CREAL)",
+        "Ticker": "CREAL",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/samsung-electronics-co-ltd-gdr?cid=41040",
+        "Nombre": "Samsung Electronics Co Ltd DRC (SMSNN)",
+        "Ticker": "SMSNN",
+        "Industria": "Ordenadores, teléfonos y electrodomésticos",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-industrial-saltillo-sab-de-cv",
+        "Nombre": "Grupo Industrial Saltillo SAB de CV (GISSAA)",
+        "Ticker": "GISSAA",
+        "Industria": "Automóviles y piezas de automóviles",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/corporacion-inmobiliaria-vesta-sab",
+        "Nombre": "Corporacion Inmobiliaria Vesta SAB (VESTA)",
+        "Ticker": "VESTA",
+        "Industria": "Operaciones Inmobiliarias",
+        "Sector": "Inmobiliaria"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/volaris-a",
+        "Nombre": "Controladora Vuela Compania de Aviacion SAB de CV (VOLARA)",
+        "Ticker": "VOLARA",
+        "Industria": "Servicios de transporte de pasajeros",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/fibra-uno-administracion-sa-de-cv",
+        "Nombre": "Fibra Uno Administracion SA de CV (FUNO11)",
+        "Ticker": "FUNO11",
+        "Industria": "Banca y servicios de inversión",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/hoteles-city-express-sab-de-cv",
+        "Nombre": "Hoteles City Express SAB de CV (HCITY)",
+        "Ticker": "HCITY",
+        "Industria": "Hoteles y servicios de ocio",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-gicsa-sa-de-cv",
+        "Nombre": "Grupo Gicsa SA de CV (GICSAB)",
+        "Ticker": "GICSAB",
+        "Industria": "Operaciones Inmobiliarias",
+        "Sector": "Inmobiliaria"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/unifin-financiera-sapi-de-cv-sofom",
+        "Nombre": "Unifin Financiera SAPI de CV SOFOM ENR (UNIFINA)",
+        "Ticker": "UNIFINA",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/rotoplas-sa-de-cv",
+        "Nombre": "Rotoplas SA de CV (AGUA)",
+        "Ticker": "AGUA",
+        "Industria": "Suministros para la construcción",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/convertidora-industrial-sab-de-cv",
+        "Nombre": "Convertidora Industrial SAB De CV (CONVERA)",
+        "Ticker": "CONVERA",
+        "Industria": "Contenedores y Empacado",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/grupo-hotelero-santa-fe-sab-de-cv",
+        "Nombre": "Grupo Hotelero Santa Fe SAB de CV (HOTEL)",
+        "Ticker": "HOTEL",
+        "Industria": "Hoteles y servicios de ocio",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/promotora-y-operadora-de-infraestr",
+        "Nombre": "Promotora y Operadora de Infraestructura SAB de CV (PINFRAL)",
+        "Ticker": "PINFRAL",
+        "Industria": "Infraestructura de transporte",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/proteak-uno-sab-de-cv",
+        "Nombre": "Proteak Uno SAB de CV (TEAKCPO)",
+        "Ticker": "TEAKCPO",
+        "Industria": "Papel y productos forestales",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/kraft-foods-inc?cid=955950",
+        "Nombre": "Kraft Heinz Co (KHC)",
+        "Ticker": "KHC",
+        "Industria": "Alimentación y tabaco",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/nemak-sab-de-cv",
+        "Nombre": "Nemak SAB de CV (NEMAKA)",
+        "Ticker": "NEMAKA",
+        "Industria": "Automóviles y piezas de automóviles",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/macquarie-mexico-real-estate",
+        "Nombre": "Macquarie Mexico Real Estate Management SA de CV (FIBRAMQ12)",
+        "Ticker": "FIBRAMQ12",
+        "Industria": "REIT residenciales y comerciales",
+        "Sector": "Inmobiliaria"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/terrafina-sa-de-cv",
+        "Nombre": "CI Banco SA Institucion de Banca Multiple FF/00939 (TERRA13)",
+        "Ticker": "TERRA13",
+        "Industria": "REIT residenciales y comerciales",
+        "Sector": "Inmobiliaria"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/cadu-inmobiliaria-sa-de-cv",
+        "Nombre": "Cadu Inmobiliaria SA de CV (CADUA)",
+        "Ticker": "CADUA",
+        "Industria": "Operaciones Inmobiliarias",
+        "Sector": "Inmobiliaria"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/vinci?cid=962593",
+        "Nombre": "Vinci SA (DGN)",
+        "Ticker": "DGN",
+        "Industria": "Construcción e ingeniería",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/servicios-corporativos-javer-sapi-d",
+        "Nombre": "Servicios Corporativos Javer SAPI de CV (JAVER)",
+        "Ticker": "JAVER",
+        "Industria": "Suministros para la construcción",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/la-comercial",
+        "Nombre": "La Comercial (LACOMERUBC)",
+        "Ticker": "LACOMERUBC",
+        "Industria": "Comercio minorista de alimentación y droguería",
+        "Sector": "Consumo no cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/ubs-group-n?cid=969142",
+        "Nombre": "UBS Group AG (UBSN)",
+        "Ticker": "UBSN",
+        "Industria": "Banca y servicios de inversión",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/planigrupo-latam-sapi-de-cv",
+        "Nombre": "Planigrupo Latam SAPI de CV (PLANI)",
+        "Ticker": "PLANI",
+        "Industria": "Operaciones Inmobiliarias",
+        "Sector": "Inmobiliaria"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/vinte-viviendas-integrales-sapi-de",
+        "Nombre": "Vinte Viviendas Integrales SAPI de (VINTE)",
+        "Ticker": "VINTE",
+        "Industria": "Operaciones Inmobiliarias",
+        "Sector": "Inmobiliaria"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/facebook-inc?cid=993034",
+        "Nombre": "Meta Platforms Inc (META)",
+        "Ticker": "META",
+        "Industria": "Software y servicios informáticos",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/almaden-minerals-ltd?cid=993694",
+        "Nombre": "Almaden Minerals Ltd (AAUN)",
+        "Ticker": "AAUN",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/abbvie-inc?cid=993695",
+        "Nombre": "AbbVie Inc (ABBV)",
+        "Ticker": "ABBV",
+        "Industria": "Productos farmacéuticos",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/abbott-laboratories?cid=993696",
+        "Nombre": "Abbott Laboratories (ABT)",
+        "Ticker": "ABT",
+        "Industria": "Equipos y suministros sanitarios",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/accor?cid=993697",
+        "Nombre": "Accor SA (ACCN)",
+        "Ticker": "ACCN",
+        "Industria": "Hoteles y servicios de ocio",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/acerinox?cid=993698",
+        "Nombre": "Acerinox (ACXN)",
+        "Ticker": "ACXN",
+        "Industria": "Metales y minería",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/adidas-salomon?cid=993700",
+        "Nombre": "Adidas AG (ADSN)",
+        "Ticker": "ADSN",
+        "Industria": "Textil y confección",
+        "Sector": "Consumo cíclico"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/american-capital-agency?cid=993701",
+        "Nombre": "AGNC Investment Corp (AGNC)",
+        "Ticker": "AGNC",
+        "Industria": "REIT residenciales y comerciales",
+        "Sector": "Inmobiliaria"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/american-intl-group?cid=993702",
+        "Nombre": "American International Group Inc (AIG)",
+        "Ticker": "AIG",
+        "Industria": "Seguros",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/allianz-ag?cid=993705",
+        "Nombre": "Allianz SE VNA O.N. (ALVN)",
+        "Ticker": "ALVN",
+        "Industria": "Seguros",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/adv-micro-device?cid=993706",
+        "Nombre": "Advanced Micro Devices Inc (AMD)",
+        "Ticker": "AMD",
+        "Industria": "Semiconductores y equipos de semiconductores",
+        "Sector": "Tecnología"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/wellpoint-inc?cid=993707",
+        "Nombre": "Elevance Health Inc (ELV)",
+        "Ticker": "ELV",
+        "Industria": "Proveedores y servicios sanitarios",
+        "Sector": "Salud"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/apache-corp?cid=993708",
+        "Nombre": "APA Corporation (APA)",
+        "Ticker": "APA",
+        "Industria": "Gas de petróleo",
+        "Sector": "Energía"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/air-transport-service?cid=993710",
+        "Nombre": "Air Transport Services Group Inc (ATSG)",
+        "Ticker": "ATSG",
+        "Industria": "Servicios de carga y logística",
+        "Sector": "Industriales"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/bank-of-america?cid=993713",
+        "Nombre": "Bank of America Corp (BAC)",
+        "Ticker": "BAC",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/credicorp-ltd?cid=993714",
+        "Nombre": "Credicorp Ltd (BAPN)",
+        "Ticker": "BAPN",
+        "Industria": "Servicios bancarios",
+        "Sector": "Financiero"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/basf-ag?cid=993715",
+        "Nombre": "BASF SE NA O.N. (BASN)",
+        "Ticker": "BASN",
+        "Industria": "Productos químicos",
+        "Sector": "Materiales básicos"
+    },
+    {
+        "URL": "https://mx.investing.com/equities/baxter-intl?cid=993716",
+        "Nombre": "Baxter International Inc (BAX)",
+        "Ticker": "BAX",
+        "Industria": "Equipos y suministros sanitarios",
+        "Sector": "Salud"
+    }
+]
