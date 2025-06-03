@@ -1,0 +1,3495 @@
+[
+    {
+        "URL": "https://www.investing.com/equities/boeing-co",
+        "Nombre": "Boeing Co (BA)",
+        "Ticker": "BA",
+        "Industria": "Aerospace & Defense",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/gen-motors",
+        "Nombre": "General Motors Company (GM)",
+        "Ticker": "GM",
+        "Industria": "Automobiles & Auto Parts",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/chevron",
+        "Nombre": "Chevron Corp (CVX)",
+        "Ticker": "CVX",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/citigroup",
+        "Nombre": "Citigroup Inc (C)",
+        "Ticker": "C",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/bank-of-america",
+        "Nombre": "Bank of America Corp (BAC)",
+        "Ticker": "BAC",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/at-t",
+        "Nombre": "AT&T Inc (T)",
+        "Ticker": "T",
+        "Industria": "Telecommunications Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/caterpillar",
+        "Nombre": "Caterpillar Inc (CAT)",
+        "Ticker": "CAT",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/intel-corp",
+        "Nombre": "Intel Corporation (INTC)",
+        "Ticker": "INTC",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/microsoft-corp",
+        "Nombre": "Microsoft Corporation (MSFT)",
+        "Ticker": "MSFT",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ford-motor-co",
+        "Nombre": "Ford Motor Company (F)",
+        "Ticker": "F",
+        "Industria": "Automobiles & Auto Parts",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ebay-inc",
+        "Nombre": "eBay Inc (EBAY)",
+        "Ticker": "EBAY",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/dell-inc",
+        "Nombre": "Dell Technologies Inc (DELL)",
+        "Ticker": "DELL",
+        "Industria": "Computers, Phones & Household Electronics",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/disney",
+        "Nombre": "Walt Disney Company (DIS)",
+        "Ticker": "DIS",
+        "Industria": "Media & Publishing",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/dow-chemical",
+        "Nombre": "Dow Inc (DOW)",
+        "Ticker": "DOW",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cisco-sys-inc",
+        "Nombre": "Cisco Systems Inc (CSCO)",
+        "Ticker": "CSCO",
+        "Industria": "Communications & Networking",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/deere---co",
+        "Nombre": "Deere & Company (DE)",
+        "Ticker": "DE",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/fedex-corp",
+        "Nombre": "FedEx Corporation (FDX)",
+        "Ticker": "FDX",
+        "Industria": "Freight & Logistics Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/general-mills",
+        "Nombre": "General Mills Inc (GIS)",
+        "Ticker": "GIS",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/corning-inc",
+        "Nombre": "Corning Incorporated (GLW)",
+        "Ticker": "GLW",
+        "Industria": "Electronic Equipment & Parts",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/goldman-sachs-group",
+        "Nombre": "Goldman Sachs Group Inc (GS)",
+        "Ticker": "GS",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/jp-morgan-chase",
+        "Nombre": "JPMorgan Chase & Co (JPM)",
+        "Ticker": "JPM",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/kimberly-clark",
+        "Nombre": "Kimberly-Clark Corporation (KMB)",
+        "Ticker": "KMB",
+        "Industria": "Personal & Household Products & Services",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/kraft-foods-inc",
+        "Nombre": "Kraft Heinz Co (KHC)",
+        "Ticker": "KHC",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/coca-cola-co",
+        "Nombre": "Coca-Cola Co (KO)",
+        "Ticker": "KO",
+        "Industria": "Beverages",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/mcdonalds",
+        "Nombre": "McDonald’s Corporation (MCD)",
+        "Ticker": "MCD",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/eli-lilly-and-co",
+        "Nombre": "Eli Lilly and Company (LLY)",
+        "Ticker": "LLY",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/oracle-corp",
+        "Nombre": "Oracle Corporation (ORCL)",
+        "Ticker": "ORCL",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/merck---co",
+        "Nombre": "Merck & Company Inc (MRK)",
+        "Ticker": "MRK",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/motorola-inc",
+        "Nombre": "Motorola Solutions Inc (MSI)",
+        "Ticker": "MSI",
+        "Industria": "Communications & Networking",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/3m-co",
+        "Nombre": "3M Company (MMM)",
+        "Ticker": "MMM",
+        "Industria": "Consumer Goods Conglomerates",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/vertex-pharm",
+        "Nombre": "Vertex Pharmaceuticals Inc (VRTX)",
+        "Ticker": "VRTX",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/monster-beverage",
+        "Nombre": "Monster Beverage Corp (MNST)",
+        "Ticker": "MNST",
+        "Industria": "Beverages",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/fifth-third-bk",
+        "Nombre": "Fifth Third Bancorp (FITB)",
+        "Ticker": "FITB",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cintas-corp",
+        "Nombre": "Cintas Corporation (CTAS)",
+        "Ticker": "CTAS",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/autodesk-inc",
+        "Nombre": "Autodesk Inc (ADSK)",
+        "Ticker": "ADSK",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/gilead-sciences-inc",
+        "Nombre": "Gilead Sciences Inc (GILD)",
+        "Ticker": "GILD",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/google-inc",
+        "Nombre": "Alphabet Inc Class A (GOOGL)",
+        "Ticker": "GOOGL",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/fiserv-inc",
+        "Nombre": "Fiserv Inc (FI)",
+        "Ticker": "FI",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/adobe-sys-inc",
+        "Nombre": "Adobe Systems Incorporated (ADBE)",
+        "Ticker": "ADBE",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/qualcomm-inc",
+        "Nombre": "Qualcomm Incorporated (QCOM)",
+        "Ticker": "QCOM",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/discovery-holding-co",
+        "Nombre": "Warner Bros Discovery Inc (WBD)",
+        "Ticker": "WBD",
+        "Industria": "Media & Publishing",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/applied-matls-inc",
+        "Nombre": "Applied Materials Inc (AMAT)",
+        "Ticker": "AMAT",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/steel-dynamics",
+        "Nombre": "Steel Dynamics Inc (STLD)",
+        "Ticker": "STLD",
+        "Industria": "Metals & Mining",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cadence-design-system-inc",
+        "Nombre": "Cadence Design Systems Inc (CDNS)",
+        "Ticker": "CDNS",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/microchip-technology-inc",
+        "Nombre": "Microchip Technology Inc (MCHP)",
+        "Ticker": "MCHP",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/wynn-resorts-ltd",
+        "Nombre": "Wynn Resorts Limited (WYNN)",
+        "Ticker": "WYNN",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/intuitive-surgical-inc",
+        "Nombre": "Intuitive Surgical Inc (ISRG)",
+        "Ticker": "ISRG",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/nasdaq-omx-group",
+        "Nombre": "Nasdaq Inc (NDAQ)",
+        "Ticker": "NDAQ",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/henry-schein",
+        "Nombre": "Henry Schein Inc (HSIC)",
+        "Ticker": "HSIC",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/paychex-inc",
+        "Nombre": "Paychex Inc (PAYX)",
+        "Ticker": "PAYX",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/verisign-inc",
+        "Nombre": "VeriSign Inc (VRSN)",
+        "Ticker": "VRSN",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/apple-computer-inc",
+        "Nombre": "Apple Inc (AAPL)",
+        "Ticker": "AAPL",
+        "Industria": "Computers, Phones & Household Electronics",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/fastenal-co",
+        "Nombre": "Fastenal Company (FAST)",
+        "Ticker": "FAST",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/northern-trust",
+        "Nombre": "Northern Trust Corporation (NTRS)",
+        "Ticker": "NTRS",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/c-h-robinson-worldwide-inc",
+        "Nombre": "CH Robinson Worldwide Inc (CHRW)",
+        "Ticker": "CHRW",
+        "Industria": "Freight & Logistics Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/paccar-inc",
+        "Nombre": "PACCAR Inc (PCAR)",
+        "Ticker": "PCAR",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/amazon-com-inc",
+        "Nombre": "Amazon.com Inc (AMZN)",
+        "Ticker": "AMZN",
+        "Industria": "Diversified Retail",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ross-stores-inc",
+        "Nombre": "Ross Stores Inc (ROST)",
+        "Ticker": "ROST",
+        "Industria": "Specialty Retailers",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/network-appliance-inc",
+        "Nombre": "NetApp Inc (NTAP)",
+        "Ticker": "NTAP",
+        "Industria": "Computers, Phones & Household Electronics",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/garmin-ltd",
+        "Nombre": "Garmin Ltd (GRMN)",
+        "Ticker": "GRMN",
+        "Industria": "Communications & Networking",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/costco-whsl-corp-new",
+        "Nombre": "Costco Wholesale Corp (COST)",
+        "Ticker": "COST",
+        "Industria": "Diversified Retail",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/lam-research-corp",
+        "Nombre": "Lam Research Corp (LRCX)",
+        "Ticker": "LRCX",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/intuit",
+        "Nombre": "Intuit Inc (INTU)",
+        "Ticker": "INTU",
+        "Industria": "Financial Technology (Fintech) & Infrastructure",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/expedia",
+        "Nombre": "Expedia Inc (EXPE)",
+        "Ticker": "EXPE",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cognizant-technology-solutio",
+        "Nombre": "Cognizant Technology Solutions Corp Class A (CTSH)",
+        "Ticker": "CTSH",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/akamai-technologies-inc",
+        "Nombre": "Akamai Technologies Inc (AKAM)",
+        "Ticker": "AKAM",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/kla-tencor-corp",
+        "Nombre": "KLA Corporation (KLAC)",
+        "Ticker": "KLAC",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/juniper-networks-inc",
+        "Nombre": "Juniper Networks Inc (JNPR)",
+        "Ticker": "JNPR",
+        "Industria": "Communications & Networking",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/amgen-inc",
+        "Nombre": "Amgen Inc (AMGN)",
+        "Ticker": "AMGN",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/expeditors-intl-wash-inc",
+        "Nombre": "Expeditors International of Washington Inc (EXPD)",
+        "Ticker": "EXPD",
+        "Industria": "Freight & Logistics Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/electronic-arts-inc",
+        "Nombre": "Electronic Arts Inc (EA)",
+        "Ticker": "EA",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/t-rowe-price-gp",
+        "Nombre": "T. Rowe Price Group Inc (TROW)",
+        "Ticker": "TROW",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/biogen-idec-inc",
+        "Nombre": "Biogen Inc (BIIB)",
+        "Ticker": "BIIB",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/charles-schwab",
+        "Nombre": "Charles Schwab Corp (SCHW)",
+        "Ticker": "SCHW",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/huntgtn-bkshr",
+        "Nombre": "Huntington Bancshares Incorporated (HBAN)",
+        "Ticker": "HBAN",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/symantec-corp",
+        "Nombre": "Gen Digital Inc (GEN)",
+        "Ticker": "GEN",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/nvidia-corp",
+        "Nombre": "NVIDIA Corporation (NVDA)",
+        "Ticker": "NVDA",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/starbucks-corp",
+        "Nombre": "Starbucks Corporation (SBUX)",
+        "Ticker": "SBUX",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cincinnati-fin",
+        "Nombre": "Cincinnati Financial Corporation (CINF)",
+        "Ticker": "CINF",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/taser-intl",
+        "Nombre": "Axon Enterprise Inc (AXON)",
+        "Ticker": "AXON",
+        "Industria": "Aerospace & Defense",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/hologic-inc",
+        "Nombre": "Hologic Inc (HOLX)",
+        "Ticker": "HOLX",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/comcast-corp-new",
+        "Nombre": "Comcast Corp (CMCSA)",
+        "Ticker": "CMCSA",
+        "Industria": "Telecommunications Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/medtronic",
+        "Nombre": "Medtronic PLC (MDT)",
+        "Ticker": "MDT",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/dover-corp",
+        "Nombre": "Dover Corporation (DOV)",
+        "Ticker": "DOV",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/northrop-grumman",
+        "Nombre": "Northrop Grumman Corporation (NOC)",
+        "Ticker": "NOC",
+        "Industria": "Aerospace & Defense",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/mgm-mirage",
+        "Nombre": "MGM Resorts International (MGM)",
+        "Ticker": "MGM",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/mastercard-cl-a",
+        "Nombre": "Mastercard Inc (MA)",
+        "Ticker": "MA",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/general-dynam",
+        "Nombre": "General Dynamics Corporation (GD)",
+        "Ticker": "GD",
+        "Industria": "Aerospace & Defense",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/dte-energy",
+        "Nombre": "DTE Energy Company (DTE)",
+        "Ticker": "DTE",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/analog-devices",
+        "Nombre": "Analog Devices Inc (ADI)",
+        "Ticker": "ADI",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cardinal-health",
+        "Nombre": "Cardinal Health Inc (CAH)",
+        "Ticker": "CAH",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/xcel-energy",
+        "Nombre": "Xcel Energy Inc (XEL)",
+        "Ticker": "XEL",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/d.r.-horton-inc",
+        "Nombre": "DR Horton Inc (DHI)",
+        "Ticker": "DHI",
+        "Industria": "Homebuilding & Construction Supplies",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/interpublic-grp",
+        "Nombre": "Interpublic Group of Companies Inc (IPG)",
+        "Ticker": "IPG",
+        "Industria": "Media & Publishing",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/lockheed-martin",
+        "Nombre": "Lockheed Martin Corporation (LMT)",
+        "Ticker": "LMT",
+        "Industria": "Aerospace & Defense",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/waters-corp",
+        "Nombre": "Waters Corporation (WAT)",
+        "Ticker": "WAT",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/accenture-ltd",
+        "Nombre": "Accenture plc (ACN)",
+        "Ticker": "ACN",
+        "Industria": "",
+        "Sector": ""
+    },
+    {
+        "URL": "https://www.investing.com/equities/dominion-res",
+        "Nombre": "Dominion Energy Inc (D)",
+        "Ticker": "D",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/exxon-mobil",
+        "Nombre": "Exxon Mobil Corp (XOM)",
+        "Ticker": "XOM",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cigna-corp",
+        "Nombre": "Cigna Corp (CI)",
+        "Ticker": "CI",
+        "Industria": "Healthcare Providers & Services",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/publ-svc-enter",
+        "Nombre": "Public Service Enterprise Group Inc (PEG)",
+        "Ticker": "PEG",
+        "Industria": "Multiline Utilities",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ni-source-inc",
+        "Nombre": "NiSource Inc (NI)",
+        "Ticker": "NI",
+        "Industria": "Multiline Utilities",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/zimmer-hldgs",
+        "Nombre": "Zimmer Biomet Holdings Inc (ZBH)",
+        "Ticker": "ZBH",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/csx-corp",
+        "Nombre": "CSX Corporation (CSX)",
+        "Ticker": "CSX",
+        "Industria": "Freight & Logistics Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/intercontintlex",
+        "Nombre": "Intercontinental Exchange Inc (ICE)",
+        "Ticker": "ICE",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/sth-west-airlines",
+        "Nombre": "Southwest Airlines Company (LUV)",
+        "Ticker": "LUV",
+        "Industria": "Passenger Transportation Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/illinois-tool-wk-r",
+        "Nombre": "Illinois Tool Works Inc (ITW)",
+        "Ticker": "ITW",
+        "Industria": "Consumer Goods Conglomerates",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/dardem-rest",
+        "Nombre": "Darden Restaurants Inc (DRI)",
+        "Ticker": "DRI",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/bb-t-corp",
+        "Nombre": "Truist Financial Corp (TFC)",
+        "Ticker": "TFC",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/halliburton-co",
+        "Nombre": "Halliburton Company (HAL)",
+        "Ticker": "HAL",
+        "Industria": "Oil & Gas Related Equipment and Services",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/prologis",
+        "Nombre": "Prologis Inc (PLD)",
+        "Ticker": "PLD",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/mccormick---co",
+        "Nombre": "McCormick & Company Incorporated (MKC)",
+        "Ticker": "MKC",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/host-hotels---res",
+        "Nombre": "Host Hotels & Resorts Inc (HST)",
+        "Ticker": "HST",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/estee-lauder",
+        "Nombre": "Estee Lauder Companies Inc (EL)",
+        "Ticker": "EL",
+        "Industria": "Personal & Household Products & Services",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/intl-paper-co",
+        "Nombre": "International Paper (IP)",
+        "Ticker": "IP",
+        "Industria": "Containers & Packaging",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/emerson-elec",
+        "Nombre": "Emerson Electric Company (EMR)",
+        "Ticker": "EMR",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/clorox-co",
+        "Nombre": "Clorox Co (CLX)",
+        "Ticker": "CLX",
+        "Industria": "Personal & Household Products & Services",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/conoco-phillips",
+        "Nombre": "ConocoPhillips (COP)",
+        "Ticker": "COP",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/colgate-palmo",
+        "Nombre": "Colgate-Palmolive Company (CL)",
+        "Ticker": "CL",
+        "Industria": "Personal & Household Products & Services",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/pinnacle-west",
+        "Nombre": "Pinnacle West Capital Corp (PNW)",
+        "Ticker": "PNW",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/regions-fin",
+        "Nombre": "Regions Financial Corporation (RF)",
+        "Ticker": "RF",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/centerpoint",
+        "Nombre": "CenterPoint Energy Inc (CNP)",
+        "Ticker": "CNP",
+        "Industria": "Multiline Utilities",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/metlife-inc",
+        "Nombre": "MetLife Inc (MET)",
+        "Ticker": "MET",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/exelon-corp",
+        "Nombre": "Exelon Corporation (EXC)",
+        "Ticker": "EXC",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/baxter-intl",
+        "Nombre": "Baxter International Inc (BAX)",
+        "Ticker": "BAX",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/occidental-petro",
+        "Nombre": "Occidental Petroleum Corporation (OXY)",
+        "Ticker": "OXY",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/southern-co",
+        "Nombre": "Southern Company (SO)",
+        "Ticker": "SO",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/coach",
+        "Nombre": "Tapestry Inc (TPR)",
+        "Ticker": "TPR",
+        "Industria": "Specialty Retailers",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/lennar",
+        "Nombre": "Lennar Corporation (LEN)",
+        "Ticker": "LEN",
+        "Industria": "Homebuilding & Construction Supplies",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/campbell-soup",
+        "Nombre": "Campbell Soup Company (CPB)",
+        "Ticker": "CPB",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/state-street",
+        "Nombre": "State Street Corp (STT)",
+        "Ticker": "STT",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/the-progressive",
+        "Nombre": "Progressive Corp (PGR)",
+        "Ticker": "PGR",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/vulcan-matrls",
+        "Nombre": "Vulcan Materials Company (VMC)",
+        "Ticker": "VMC",
+        "Industria": "Construction Materials",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/parkerhannifin",
+        "Nombre": "Parker-Hannifin Corporation (PH)",
+        "Ticker": "PH",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/genuine-parts-co",
+        "Nombre": "Genuine Parts Co (GPC)",
+        "Ticker": "GPC",
+        "Industria": "Automobiles & Auto Parts",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cbre",
+        "Nombre": "CBRE Group Inc Class A (CBRE)",
+        "Ticker": "CBRE",
+        "Industria": "Real Estate Operations",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/du-pont",
+        "Nombre": "Dupont De Nemours Inc (DD)",
+        "Ticker": "DD",
+        "Industria": "Electronic Equipment & Parts",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/sherwinwilliams",
+        "Nombre": "Sherwin-Williams Co (SHW)",
+        "Ticker": "SHW",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/pfizer",
+        "Nombre": "Pfizer Inc (PFE)",
+        "Ticker": "PFE",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/wells-fargo",
+        "Nombre": "Wells Fargo & Company (WFC)",
+        "Ticker": "WFC",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/wal-mart-stores",
+        "Nombre": "Walmart Inc (WMT)",
+        "Ticker": "WMT",
+        "Industria": "Food & Drug Retailing",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/edison-intl",
+        "Nombre": "Edison International (EIX)",
+        "Ticker": "EIX",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/snapon-inc",
+        "Nombre": "Snap-On Inc (SNA)",
+        "Ticker": "SNA",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/equifax-inc",
+        "Nombre": "Equifax Inc (EFX)",
+        "Ticker": "EFX",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/mckesson-corp",
+        "Nombre": "McKesson Corporation (MCK)",
+        "Ticker": "MCK",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/entergy-corp",
+        "Nombre": "Entergy Corporation (ETR)",
+        "Ticker": "ETR",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cms-energy-corp",
+        "Nombre": "CMS Energy Corporation (CMS)",
+        "Ticker": "CMS",
+        "Industria": "Multiline Utilities",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ameriprise-fincl",
+        "Nombre": "Ameriprise Financial Inc (AMP)",
+        "Ticker": "AMP",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/american-intl-group",
+        "Nombre": "American International Group Inc (AIG)",
+        "Ticker": "AIG",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/polo-ralph-laur",
+        "Nombre": "Ralph Lauren Corp Class A (RL)",
+        "Ticker": "RL",
+        "Industria": "Textiles & Apparel",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/intl-flav---frag",
+        "Nombre": "International Flavors & Fragrances Inc (IFF)",
+        "Ticker": "IFF",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/w-w-grainger-inc",
+        "Nombre": "WW Grainger Inc (GWW)",
+        "Ticker": "GWW",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/constellation-a",
+        "Nombre": "Constellation Brands Inc Class A (STZ)",
+        "Ticker": "STZ",
+        "Industria": "Beverages",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/amer-tower-corp",
+        "Nombre": "American Tower Corp (AMT)",
+        "Ticker": "AMT",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/philip-morris-intl",
+        "Nombre": "Philip Morris International Inc (PM)",
+        "Ticker": "PM",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/fidelity-natl-in",
+        "Nombre": "Fidelity National Information Services Inc (FIS)",
+        "Ticker": "FIS",
+        "Industria": "Financial Technology (Fintech) & Infrastructure",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/altria-group",
+        "Nombre": "Altria Group (MO)",
+        "Ticker": "MO",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ball-corp",
+        "Nombre": "Ball Corporation (BALL)",
+        "Ticker": "BALL",
+        "Industria": "Containers & Packaging",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/hartford-finl",
+        "Nombre": "Hartford Financial Services Group (HIG)",
+        "Ticker": "HIG",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/hershey-co",
+        "Nombre": "Hershey Co (HSY)",
+        "Ticker": "HSY",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/morgan-stanley",
+        "Nombre": "Morgan Stanley (MS)",
+        "Ticker": "MS",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/pnc-fin-serv",
+        "Nombre": "PNC Financial Services Group Inc (PNC)",
+        "Ticker": "PNC",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/waste-managemnt",
+        "Nombre": "Waste Management Inc (WM)",
+        "Ticker": "WM",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/amerisourcebergn",
+        "Nombre": "Cencora Inc (COR)",
+        "Ticker": "COR",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/assurant",
+        "Nombre": "Assurant Inc (AIZ)",
+        "Ticker": "AIZ",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/kroger-co",
+        "Nombre": "Kroger Company (KR)",
+        "Ticker": "KR",
+        "Industria": "Food & Drug Retailing",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/molson-coors",
+        "Nombre": "Molson Coors Brewing Co Class B (TAP)",
+        "Ticker": "TAP",
+        "Industria": "Beverages",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/home-depot",
+        "Nombre": "Home Depot Inc (HD)",
+        "Ticker": "HD",
+        "Industria": "Specialty Retailers",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/becton-dickinsn",
+        "Nombre": "Becton Dickinson and Company (BDX)",
+        "Ticker": "BDX",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/jm-smucker-co",
+        "Nombre": "JM Smucker Company (SJM)",
+        "Ticker": "SJM",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/best-buy",
+        "Nombre": "Best Buy Co Inc (BBY)",
+        "Ticker": "BBY",
+        "Industria": "Specialty Retailers",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/archer-daniels-mid",
+        "Nombre": "Archer-Daniels-Midland Company (ADM)",
+        "Ticker": "ADM",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/brown-forman-b",
+        "Nombre": "Brown Forman (BFb)",
+        "Ticker": "BFb",
+        "Industria": "Beverages",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ibm",
+        "Nombre": "International Business Machines (IBM)",
+        "Ticker": "IBM",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/union-pacific",
+        "Nombre": "Union Pacific Corporation (UNP)",
+        "Ticker": "UNP",
+        "Industria": "Freight & Logistics Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/micron-tech",
+        "Nombre": "Micron Technology Inc (MU)",
+        "Ticker": "MU",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/avery-dennison",
+        "Nombre": "Avery Dennison Corp (AVY)",
+        "Ticker": "AVY",
+        "Industria": "Containers & Packaging",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cf-industries",
+        "Nombre": "CF Industries Holdings Inc (CF)",
+        "Ticker": "CF",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/apache-corp",
+        "Nombre": "APA Corporation (APA)",
+        "Ticker": "APA",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/duke-energy",
+        "Nombre": "Duke Energy Corporation (DUK)",
+        "Ticker": "DUK",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/keycorp-new",
+        "Nombre": "KeyCorp (KEY)",
+        "Ticker": "KEY",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/laboratory-corp-of-amer",
+        "Nombre": "Labcorp Holdings Inc (LH)",
+        "Ticker": "LH",
+        "Industria": "Healthcare Providers & Services",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/boston-ppty",
+        "Nombre": "BXP Inc (BXP)",
+        "Ticker": "BXP",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/western-digital",
+        "Nombre": "Western Digital Corporation (WDC)",
+        "Ticker": "WDC",
+        "Industria": "Computers, Phones & Household Electronics",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ppg-industries",
+        "Nombre": "PPG Industries Inc (PPG)",
+        "Ticker": "PPG",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/mcgraw-hill",
+        "Nombre": "S&P Global Inc (SPGI)",
+        "Ticker": "SPGI",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/williams-cos",
+        "Nombre": "Williams Companies Inc (WMB)",
+        "Ticker": "WMB",
+        "Industria": "Oil & Gas Related Equipment and Services",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/wellpoint-inc",
+        "Nombre": "Elevance Health Inc (ELV)",
+        "Ticker": "ELV",
+        "Industria": "Healthcare Providers & Services",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/jacobs-engineer",
+        "Nombre": "Jacobs Engineering Group Inc (J)",
+        "Ticker": "J",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/eastman-chem",
+        "Nombre": "Eastman Chemical Company (EMN)",
+        "Ticker": "EMN",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/verizon-communications",
+        "Nombre": "Verizon Communications Inc (VZ)",
+        "Ticker": "VZ",
+        "Industria": "Telecommunications Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/nucor",
+        "Nombre": "Nucor Corp (NUE)",
+        "Ticker": "NUE",
+        "Industria": "Metals & Mining",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/omnicom-gp-inc",
+        "Nombre": "Omnicom Group Inc (OMC)",
+        "Ticker": "OMC",
+        "Industria": "Media & Publishing",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/avalonbay-comm",
+        "Nombre": "AvalonBay Communities Inc (AVB)",
+        "Ticker": "AVB",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/marriott-intl",
+        "Nombre": "Marriott International Inc (MAR)",
+        "Ticker": "MAR",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ingersoll-rand",
+        "Nombre": "Ingersoll Rand Inc (IR)",
+        "Ticker": "IR",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/bristol-myer-squiib",
+        "Nombre": "Bristol-Myers Squibb Company (BMY)",
+        "Ticker": "BMY",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/american-electric",
+        "Nombre": "American Electric Power Company Inc (AEP)",
+        "Ticker": "AEP",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/thermo-fisher-sc",
+        "Nombre": "Thermo Fisher Scientific Inc (TMO)",
+        "Ticker": "TMO",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/newmont-mining",
+        "Nombre": "Newmont Goldcorp Corp (NEM)",
+        "Ticker": "NEM",
+        "Industria": "Metals & Mining",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/public-stg-mld",
+        "Nombre": "Public Storage (PSA)",
+        "Ticker": "PSA",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/the-travelers-co",
+        "Nombre": "Travelers Companies (TRV)",
+        "Ticker": "TRV",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/stanley-works",
+        "Nombre": "Stanley Black & Decker Inc (SWK)",
+        "Ticker": "SWK",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/franklin-res",
+        "Nombre": "Franklin Resources Inc (BEN)",
+        "Ticker": "BEN",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/humana-inc",
+        "Nombre": "Humana Inc (HUM)",
+        "Ticker": "HUM",
+        "Industria": "Healthcare Providers & Services",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/viacom-cl-b",
+        "Nombre": "Paramount Global Class B (PARA)",
+        "Ticker": "PARA",
+        "Industria": "Media & Publishing",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/chubb-corp",
+        "Nombre": "Chubb Ltd (CB)",
+        "Ticker": "CB",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/johnson-johnson",
+        "Nombre": "Johnson & Johnson (JNJ)",
+        "Ticker": "JNJ",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/tyson-foods",
+        "Nombre": "Tyson Foods Inc (TSN)",
+        "Ticker": "TSN",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/target",
+        "Nombre": "Target Corporation (TGT)",
+        "Ticker": "TGT",
+        "Industria": "Diversified Retail",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/jabil-circuit",
+        "Nombre": "Jabil Circuit Inc (JBL)",
+        "Ticker": "JBL",
+        "Industria": "Electronic Equipment & Parts",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/american-express",
+        "Nombre": "American Express Company (AXP)",
+        "Ticker": "AXP",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/masco-corp",
+        "Nombre": "Masco Corporation (MAS)",
+        "Ticker": "MAS",
+        "Industria": "Homebuilding & Construction Supplies",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/stryker",
+        "Nombre": "Stryker Corporation (SYK)",
+        "Ticker": "SYK",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/prudential-fin",
+        "Nombre": "Prudential Financial Inc (PRU)",
+        "Ticker": "PRU",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/abbott-laboratories",
+        "Nombre": "Abbott Laboratories (ABT)",
+        "Ticker": "ABT",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/general-electric",
+        "Nombre": "GE Aerospace (GE)",
+        "Ticker": "GE",
+        "Industria": "Aerospace & Defense",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/quest-diag",
+        "Nombre": "Quest Diagnostics Incorporated (DGX)",
+        "Ticker": "DGX",
+        "Industria": "Healthcare Providers & Services",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/united-parcel",
+        "Nombre": "United Parcel Service Inc (UPS)",
+        "Ticker": "UPS",
+        "Industria": "Freight & Logistics Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cvs-corp",
+        "Nombre": "CVS Health Corp (CVS)",
+        "Ticker": "CVS",
+        "Industria": "Healthcare Providers & Services",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ppl-corp",
+        "Nombre": "PPL Corporation (PPL)",
+        "Ticker": "PPL",
+        "Industria": "Multiline Utilities",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/simon-prop-grp",
+        "Nombre": "Simon Property Group Inc (SPG)",
+        "Ticker": "SPG",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/johnson-controls",
+        "Nombre": "Johnson Controls International PLC (JCI)",
+        "Ticker": "JCI",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cummins-inc",
+        "Nombre": "Cummins Inc (CMI)",
+        "Ticker": "CMI",
+        "Industria": "Automobiles & Auto Parts",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/allstate-corporation",
+        "Nombre": "Allstate Corp (ALL)",
+        "Ticker": "ALL",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/sempra-energy",
+        "Nombre": "Sempra Energy (SRE)",
+        "Ticker": "SRE",
+        "Industria": "Multiline Utilities",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/devon-energy",
+        "Nombre": "Devon Energy Corporation (DVN)",
+        "Ticker": "DVN",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/conagra-foods",
+        "Nombre": "Conagra Brands Inc (CAG)",
+        "Ticker": "CAG",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/tjx-co-inc",
+        "Nombre": "TJX Companies Inc (TJX)",
+        "Ticker": "TJX",
+        "Industria": "Diversified Retail",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/first-energy",
+        "Nombre": "FirstEnergy Corporation (FE)",
+        "Ticker": "FE",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/torchmark-corp",
+        "Nombre": "Globe Life Inc (GL)",
+        "Ticker": "GL",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/united-tech",
+        "Nombre": "Rtx Corp (RTX)",
+        "Ticker": "RTX",
+        "Industria": "Aerospace & Defense",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/pulte-homes-inc",
+        "Nombre": "PulteGroup Inc (PHM)",
+        "Ticker": "PHM",
+        "Industria": "Homebuilding & Construction Supplies",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/valero-energy",
+        "Nombre": "Valero Energy Corporation (VLO)",
+        "Ticker": "VLO",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/boston-scien-cp",
+        "Nombre": "Boston Scientific Corp (BSX)",
+        "Ticker": "BSX",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/capital-one",
+        "Nombre": "Capital One Financial Corporation (COF)",
+        "Ticker": "COF",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/pacific-gas-electric",
+        "Nombre": "PG&E Corp (PCG)",
+        "Ticker": "PCG",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/norfolk-southern",
+        "Nombre": "Norfolk Southern Corporation (NSC)",
+        "Ticker": "NSC",
+        "Industria": "Freight & Logistics Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/aflac-inc",
+        "Nombre": "Aflac Inc (AFL)",
+        "Ticker": "AFL",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/eq-resident",
+        "Nombre": "Equity Residential (EQR)",
+        "Ticker": "EQR",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/air-prods---chem",
+        "Nombre": "Air Products and Chemicals Inc (APD)",
+        "Ticker": "APD",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/principal-fin",
+        "Nombre": "Principal Financial Group Inc (PFG)",
+        "Ticker": "PFG",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/texas-instru",
+        "Nombre": "Texas Instruments Incorporated (TXN)",
+        "Ticker": "TXN",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/hewlett-pack",
+        "Nombre": "HP Inc (HPQ)",
+        "Ticker": "HPQ",
+        "Industria": "Computers, Phones & Household Electronics",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/honeywell-intl",
+        "Nombre": "Honeywell International Inc (HON)",
+        "Ticker": "HON",
+        "Industria": "Consumer Goods Conglomerates",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/adv-micro-device",
+        "Nombre": "Advanced Micro Devices Inc (AMD)",
+        "Ticker": "AMD",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/m-t-bank-corp",
+        "Nombre": "M&T Bank Corp (MTB)",
+        "Ticker": "MTB",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/mosaic-company",
+        "Nombre": "The Mosaic Company (MOS)",
+        "Ticker": "MOS",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/perkinelmer",
+        "Nombre": "Revvity Inc (RVTY)",
+        "Ticker": "RVTY",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/las-vegas-sands",
+        "Nombre": "Las Vegas Sands Corp (LVS)",
+        "Ticker": "LVS",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/freeport-mcm",
+        "Nombre": "Freeport-McMoran Copper & Gold Inc (FCX)",
+        "Ticker": "FCX",
+        "Industria": "Metals & Mining",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/autozone-inc",
+        "Nombre": "AutoZone Inc (AZO)",
+        "Ticker": "AZO",
+        "Industria": "Specialty Retailers",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/sysco-corp",
+        "Nombre": "Sysco Corporation (SYY)",
+        "Ticker": "SYY",
+        "Industria": "Food & Drug Retailing",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ameren-corp",
+        "Nombre": "Ameren Corp (AEE)",
+        "Ticker": "AEE",
+        "Industria": "Multiline Utilities",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/eaton",
+        "Nombre": "Eaton Corporation PLC (ETN)",
+        "Ticker": "ETN",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/salesforce-com",
+        "Nombre": "Salesforce Inc (CRM)",
+        "Ticker": "CRM",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cocnsol-edison",
+        "Nombre": "Consolidated Edison Inc (ED)",
+        "Ticker": "ED",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/aes-corp",
+        "Nombre": "The AES Corporation (AES)",
+        "Ticker": "AES",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/textron-inc",
+        "Nombre": "Textron Inc (TXT)",
+        "Ticker": "TXT",
+        "Industria": "Aerospace & Defense",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/us-bancorp",
+        "Nombre": "U.S. Bancorp (USB)",
+        "Ticker": "USB",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/visa-inc",
+        "Nombre": "Visa Inc Class A (V)",
+        "Ticker": "V",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/baker-hughes",
+        "Nombre": "Baker Hughes Co (BKR)",
+        "Ticker": "BKR",
+        "Industria": "Oil & Gas Related Equipment and Services",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/hess-corp",
+        "Nombre": "Hess Corporation (HES)",
+        "Ticker": "HES",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/yum!-brands-inc",
+        "Nombre": "Yum! Brands Inc (YUM)",
+        "Ticker": "YUM",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/marsh---mclennan",
+        "Nombre": "Marsh & McLennan Companies Inc (MMC)",
+        "Ticker": "MMC",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/kellogg-co.",
+        "Nombre": "Kellanova (K)",
+        "Ticker": "K",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/kimco-realty",
+        "Nombre": "Kimco Realty Corp (KIM)",
+        "Ticker": "KIM",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ecolab-inc",
+        "Nombre": "Ecolab Inc (ECL)",
+        "Ticker": "ECL",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/eog-resources",
+        "Nombre": "EOG Resources Inc (EOG)",
+        "Ticker": "EOG",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/aon-corp",
+        "Nombre": "Aon PLC (AON)",
+        "Ticker": "AON",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/hasbro-inc",
+        "Nombre": "Hasbro Inc (HAS)",
+        "Ticker": "HAS",
+        "Industria": "Leisure Products",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/bk-of-ny",
+        "Nombre": "Bank of New York Mellon (BK)",
+        "Ticker": "BK",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/schlumberger-ltd",
+        "Nombre": "Schlumberger NV (SLB)",
+        "Ticker": "SLB",
+        "Industria": "Oil & Gas Related Equipment and Services",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/walgreen-co",
+        "Nombre": "Walgreens Boots Alliance Inc (WBA)",
+        "Ticker": "WBA",
+        "Industria": "Food & Drug Retailing",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/rockwell-automat",
+        "Nombre": "Rockwell Automation Inc (ROK)",
+        "Ticker": "ROK",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/pepsico",
+        "Nombre": "PepsiCo Inc (PEP)",
+        "Ticker": "PEP",
+        "Industria": "Beverages",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/united-health-group",
+        "Nombre": "Unitedhealth Group (UNH)",
+        "Ticker": "UNH",
+        "Industria": "Healthcare Providers & Services",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/teradyne-inc",
+        "Nombre": "Teradyne Inc (TER)",
+        "Ticker": "TER",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/danaher-corp",
+        "Nombre": "Danaher Corporation (DHR)",
+        "Ticker": "DHR",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/seagate-technology",
+        "Nombre": "Seagate Technology PLC (STX)",
+        "Ticker": "STX",
+        "Industria": "Computers, Phones & Household Electronics",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/agilent-tech",
+        "Nombre": "Agilent Technologies Inc (A)",
+        "Ticker": "A",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/delta-air-lines-new",
+        "Nombre": "Delta Air Lines Inc (DAL)",
+        "Ticker": "DAL",
+        "Industria": "Passenger Transportation Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/moodys-corp",
+        "Nombre": "Moodys Corporation (MCO)",
+        "Ticker": "MCO",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/nike",
+        "Nombre": "Nike Inc (NKE)",
+        "Ticker": "NKE",
+        "Industria": "Textiles & Apparel",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/procter-gamble",
+        "Nombre": "Procter & Gamble Company (PG)",
+        "Ticker": "PG",
+        "Industria": "Personal & Household Products & Services",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/weyerhaeuser",
+        "Nombre": "Weyerhaeuser Company (WY)",
+        "Ticker": "WY",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/auto-data-process",
+        "Nombre": "Automatic Data Processing Inc (ADP)",
+        "Ticker": "ADP",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/dr-pepper-snapple",
+        "Nombre": "Keurig Dr Pepper Inc (KDP)",
+        "Ticker": "KDP",
+        "Industria": "Beverages",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/lowes-companies",
+        "Nombre": "Lowe’s Companies Inc (LOW)",
+        "Ticker": "LOW",
+        "Industria": "Specialty Retailers",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/united-continenta",
+        "Nombre": "United Airlines Holdings Inc (UAL)",
+        "Ticker": "UAL",
+        "Industria": "Passenger Transportation Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/netflix,-inc.",
+        "Nombre": "Netflix Inc (NFLX)",
+        "Ticker": "NFLX",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/news-corporation",
+        "Nombre": "News Corp B (NWS)",
+        "Ticker": "NWS",
+        "Industria": "Media & Publishing",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/equinix,-inc.",
+        "Nombre": "Equinix Inc (EQIX)",
+        "Ticker": "EQIX",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/priceline.com-inc",
+        "Nombre": "Booking Holdings Inc (BKNG)",
+        "Ticker": "BKNG",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/oreilly-automotive",
+        "Nombre": "O’Reilly Automotive Inc (ORLY)",
+        "Ticker": "ORLY",
+        "Industria": "Specialty Retailers",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/blackrock,-inc.-c",
+        "Nombre": "BlackRock Inc (BLK)",
+        "Ticker": "BLK",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cme-group-inc.",
+        "Nombre": "CME Group Inc (CME)",
+        "Ticker": "CME",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/j.b.-hunt-transpo",
+        "Nombre": "JB Hunt Transport Services Inc (JBHT)",
+        "Ticker": "JBHT",
+        "Industria": "Freight & Logistics Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/loews-corporation",
+        "Nombre": "Loews Corp (L)",
+        "Ticker": "L",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/nextera-energy-inc",
+        "Nombre": "Nextera Energy Inc (NEE)",
+        "Ticker": "NEE",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/first-solar-inc",
+        "Nombre": "First Solar Inc (FSLR)",
+        "Ticker": "FSLR",
+        "Industria": "Renewable Energy",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/mylan-inc",
+        "Nombre": "Viatris Inc (VTRS)",
+        "Ticker": "VTRS",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/f5-networks-inc",
+        "Nombre": "F5 Networks Inc (FFIV)",
+        "Ticker": "FFIV",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/edward-lifescience",
+        "Nombre": "Edwards Lifesciences Corp (EW)",
+        "Ticker": "EW",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/news-corp.",
+        "Nombre": "News Corp A (NWSA)",
+        "Ticker": "NWSA",
+        "Industria": "Media & Publishing",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/amphenol-corp",
+        "Nombre": "Amphenol Corporation (APH)",
+        "Ticker": "APH",
+        "Industria": "Electronic Equipment & Parts",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/berkshire-hathaway",
+        "Nombre": "Berkshire Hathaway B (BRKb)",
+        "Ticker": "BRKb",
+        "Industria": "Consumer Goods Conglomerates",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cabot-oil---gas",
+        "Nombre": "Coterra Energy Inc (CTRA)",
+        "Ticker": "CTRA",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/carmax-inc",
+        "Nombre": "CarMax Inc (KMX)",
+        "Ticker": "KMX",
+        "Industria": "Specialty Retailers",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/chipotle-mexican-grill-inc",
+        "Nombre": "Chipotle Mexican Grill Inc (CMG)",
+        "Ticker": "CMG",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/davita-inc",
+        "Nombre": "DaVita HealthCare Partners Inc (DVA)",
+        "Ticker": "DVA",
+        "Industria": "Healthcare Providers & Services",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/eqt-corporation",
+        "Nombre": "EQT Corporation (EQT)",
+        "Ticker": "EQT",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/fmc-corp",
+        "Nombre": "FMC Corporation (FMC)",
+        "Ticker": "FMC",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/harris-corporation",
+        "Nombre": "L3Harris Technologies Inc (LHX)",
+        "Ticker": "LHX",
+        "Industria": "Aerospace & Defense",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/hcp-inc",
+        "Nombre": "Healthpeak Properties Inc (DOC)",
+        "Ticker": "DOC",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/health-care-reit",
+        "Nombre": "Welltower Inc (WELL)",
+        "Ticker": "WELL",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/hormel-foods-corp",
+        "Nombre": "Hormel Foods Corporation (HRL)",
+        "Ticker": "HRL",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/invesco-ltd",
+        "Nombre": "Invesco Plc (IVZ)",
+        "Ticker": "IVZ",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/iron-mountain-inc",
+        "Nombre": "Iron Mountain Incorporated (IRM)",
+        "Ticker": "IRM",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/northeast-utilities",
+        "Nombre": "Eversource Energy (ES)",
+        "Ticker": "ES",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/nrg-energy-inc",
+        "Nombre": "NRG Energy Inc (NRG)",
+        "Ticker": "NRG",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/oneok",
+        "Nombre": "ONEOK Inc (OKE)",
+        "Ticker": "OKE",
+        "Industria": "Oil & Gas Related Equipment and Services",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/republic-services-inc",
+        "Nombre": "Republic Services Inc (RSG)",
+        "Ticker": "RSG",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/roper-industries",
+        "Nombre": "Roper Technologies Inc (ROP)",
+        "Ticker": "ROP",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ventas-inc",
+        "Nombre": "Ventas Inc (VTR)",
+        "Ticker": "VTR",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/wisconsin-energy-corp",
+        "Nombre": "WEC Energy Group Inc (WEC)",
+        "Ticker": "WEC",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/the-blackstone-group",
+        "Nombre": "Blackstone Inc (BX)",
+        "Ticker": "BX",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/marathon-petroleum-corp.",
+        "Nombre": "Marathon Petroleum Corp (MPC)",
+        "Ticker": "MPC",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/avago-technologies",
+        "Nombre": "Broadcom Inc (AVGO)",
+        "Ticker": "AVGO",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/nxp-semiconductors",
+        "Nombre": "NXP Semiconductors NV (NXPI)",
+        "Ticker": "NXPI",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/tesla-motors",
+        "Nombre": "Tesla Inc (TSLA)",
+        "Ticker": "TSLA",
+        "Industria": "Automobiles & Auto Parts",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/take-two-interactive",
+        "Nombre": "Take-Two Interactive Software Inc (TTWO)",
+        "Ticker": "TTWO",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/dollar-tree-inc",
+        "Nombre": "Dollar Tree Inc (DLTR)",
+        "Ticker": "DLTR",
+        "Industria": "Diversified Retail",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/align-technology",
+        "Nombre": "Align Technology Inc (ALGN)",
+        "Ticker": "ALGN",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ansys",
+        "Nombre": "ANSYS Inc (ANSS)",
+        "Ticker": "ANSS",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/builders-firstsou",
+        "Nombre": "Builders FirstSource Inc (BLDR)",
+        "Ticker": "BLDR",
+        "Industria": "Homebuilding & Construction Supplies",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/charter-communications",
+        "Nombre": "Charter Communications Inc (CHTR)",
+        "Ticker": "CHTR",
+        "Industria": "Telecommunications Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/costar-group",
+        "Nombre": "CoStar Group Inc (CSGP)",
+        "Ticker": "CSGP",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/dexcom",
+        "Nombre": "DexCom Inc (DXCM)",
+        "Ticker": "DXCM",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/erie-indemnity-co",
+        "Nombre": "Erie Indemnity Company (ERIE)",
+        "Ticker": "ERIE",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/fortinet",
+        "Nombre": "Fortinet Inc (FTNT)",
+        "Ticker": "FTNT",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/idexx-laboratorie",
+        "Nombre": "IDEXX Laboratories Inc (IDXX)",
+        "Ticker": "IDXX",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/incyte-corp",
+        "Nombre": "Incyte Corporation (INCY)",
+        "Ticker": "INCY",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/jack-henry---asso",
+        "Nombre": "Jack Henry & Associates Inc (JKHY)",
+        "Ticker": "JKHY",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/marketaxess-holdi",
+        "Nombre": "MarketAxess Holdings Inc (MKTX)",
+        "Ticker": "MKTX",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/monolithic-power",
+        "Nombre": "Monolithic Power Systems Inc (MPWR)",
+        "Ticker": "MPWR",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/nordson-corp",
+        "Nombre": "Nordson Corporation (NDSN)",
+        "Ticker": "NDSN",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/on-semiconductor",
+        "Nombre": "ON Semiconductor Corporation (ON)",
+        "Ticker": "ON",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ptc",
+        "Nombre": "PTC Inc (PTC)",
+        "Ticker": "PTC",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/insulet-corp",
+        "Nombre": "Insulet Corporation (PODD)",
+        "Ticker": "PODD",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/pool-corp",
+        "Nombre": "Pool Corporation (POOL)",
+        "Ticker": "POOL",
+        "Industria": "Leisure Products",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/super-micro-compu",
+        "Nombre": "Super Micro Computer Inc (SMCI)",
+        "Ticker": "SMCI",
+        "Industria": "Computers, Phones & Household Electronics",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/techne-corp",
+        "Nombre": "Bio-Techne Corp (TECH)",
+        "Ticker": "TECH",
+        "Industria": "Biotechnology & Medical Research",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/zebra-tech",
+        "Nombre": "Zebra Technologies Corporation (ZBRA)",
+        "Ticker": "ZBRA",
+        "Industria": "Electronic Equipment & Parts",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/borgwarner",
+        "Nombre": "BorgWarner Inc (BWA)",
+        "Ticker": "BWA",
+        "Industria": "Automobiles & Auto Parts",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/metropcs-communications",
+        "Nombre": "T-Mobile US Inc (TMUS)",
+        "Ticker": "TMUS",
+        "Industria": "Telecommunications Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/quanta-services",
+        "Nombre": "Quanta Services Inc (PWR)",
+        "Ticker": "PWR",
+        "Industria": "Construction & Engineering",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/leidos-holdings",
+        "Nombre": "Leidos Holdings Inc (LDOS)",
+        "Ticker": "LDOS",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/te-connectivity",
+        "Nombre": "TE Connectivity Ltd (TEL)",
+        "Ticker": "TEL",
+        "Industria": "Electronic Equipment & Parts",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/mid-america-apartment-communities",
+        "Nombre": "Mid-America Apartment Communities Inc (MAA)",
+        "Ticker": "MAA",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/charles-river-laboratories-intl",
+        "Nombre": "Charles River Laboratories (CRL)",
+        "Ticker": "CRL",
+        "Industria": "Biotechnology & Medical Research",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/huntington-ingalls-industries-inc",
+        "Nombre": "Huntington Ingalls Industries Inc (HII)",
+        "Ticker": "HII",
+        "Industria": "Aerospace & Defense",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/mettler-toledo-international-inc",
+        "Nombre": "Mettler-Toledo International Inc (MTD)",
+        "Ticker": "MTD",
+        "Industria": "Office Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/federal-realty-investment-trust",
+        "Nombre": "Federal Realty Investment Trust (FRT)",
+        "Ticker": "FRT",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/live-nation-entertainment-inc",
+        "Nombre": "Live Nation Entertainment Inc (LYV)",
+        "Ticker": "LYV",
+        "Industria": "Media & Publishing",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/martin-marietta-materials-inc",
+        "Nombre": "Martin Marietta Materials Inc (MLM)",
+        "Ticker": "MLM",
+        "Industria": "Construction Materials",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/factset-research-systems-inc",
+        "Nombre": "FactSet Research Systems Inc (FDS)",
+        "Ticker": "FDS",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/raymond-james-financial-inc",
+        "Nombre": "Raymond James Financial Inc (RJF)",
+        "Ticker": "RJF",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/digital-realty-trust-inc",
+        "Nombre": "Digital Realty Trust Inc (DLR)",
+        "Ticker": "DLR",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/essex-property-trust-inc",
+        "Nombre": "Essex Property Trust Inc (ESS)",
+        "Ticker": "ESS",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/fair-isaac-and-comp-inc",
+        "Nombre": "Fair Isaac Corporation (FICO)",
+        "Ticker": "FICO",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cooper-companies-inc",
+        "Nombre": "Cooper Companies Inc (COO)",
+        "Ticker": "COO",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/molina-healthcare-inc",
+        "Nombre": "Molina Healthcare Inc (MOH)",
+        "Ticker": "MOH",
+        "Industria": "Healthcare Providers & Services",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/everest-re-group-ltd",
+        "Nombre": "Everest Re Group Ltd (EG)",
+        "Ticker": "EG",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/regency-centers-corp",
+        "Nombre": "Regency Centers Corporation (REG)",
+        "Ticker": "REG",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/dollar-general-corp",
+        "Nombre": "Dollar General Corporation (DG)",
+        "Ticker": "DG",
+        "Industria": "Diversified Retail",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/transdigm-group-inc",
+        "Nombre": "Transdigm Group Incorporated (TDG)",
+        "Ticker": "TDG",
+        "Industria": "Aerospace & Defense",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/atmos-energy-corp",
+        "Nombre": "Atmos Energy Corporation (ATO)",
+        "Ticker": "ATO",
+        "Industria": "Natural Gas Utilities",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/brown---brown-inc",
+        "Nombre": "Brown & Brown Inc (BRO)",
+        "Ticker": "BRO",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/dominos-pizza-inc",
+        "Nombre": "Domino’s Pizza Inc (DPZ)",
+        "Ticker": "DPZ",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/hca-holdings-inc",
+        "Nombre": "HCA Holdings Inc (HCA)",
+        "Ticker": "HCA",
+        "Industria": "Healthcare Providers & Services",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/hubbell-inc-b",
+        "Nombre": "Hubbell Inc (HUBB)",
+        "Ticker": "HUBB",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/rollins-inc",
+        "Nombre": "Rollins Inc (ROL)",
+        "Ticker": "ROL",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/steris-corp",
+        "Nombre": "STERIS plc (STE)",
+        "Ticker": "STE",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/resmed-inc",
+        "Nombre": "ResMed Inc (RMD)",
+        "Ticker": "RMD",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/msci-inc",
+        "Nombre": "MSCI Inc (MSCI)",
+        "Ticker": "MSCI",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/nvr-inc",
+        "Nombre": "NVR Inc (NVR)",
+        "Ticker": "NVR",
+        "Industria": "Homebuilding & Construction Supplies",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/carnival-corp-exch",
+        "Nombre": "Carnival Corporation (CCL)",
+        "Ticker": "CCL",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/west-pharmaceutical-services-inc",
+        "Nombre": "West Pharmaceutical Services Inc (WST)",
+        "Ticker": "WST",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/teledyne-technologies-inc",
+        "Nombre": "Teledyne Technologies Incorporated (TDY)",
+        "Ticker": "TDY",
+        "Industria": "Electronic Equipment & Parts",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/tyler-technologies-inc",
+        "Nombre": "Tyler Technologies Inc (TYL)",
+        "Ticker": "TYL",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/targa-resources-inc",
+        "Nombre": "Targa Resources Inc (TRGP)",
+        "Ticker": "TRGP",
+        "Industria": "Oil & Gas Related Equipment and Services",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/facebook-inc",
+        "Nombre": "Meta Platforms Inc (META)",
+        "Ticker": "META",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/alexandria-real-estate-equities",
+        "Nombre": "Alexandria Real Estate Equities Inc (ARE)",
+        "Ticker": "ARE",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/teleflex-inc",
+        "Nombre": "Teleflex Incorporated (TFX)",
+        "Ticker": "TFX",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/westinghouse-air-brake-tech",
+        "Nombre": "Westinghouse Air Brake Technologies Corp (WAB)",
+        "Ticker": "WAB",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/westar-energy",
+        "Nombre": "Evergy Inc (EVRG)",
+        "Ticker": "EVRG",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/willis-group-holdings-plc",
+        "Nombre": "Willis Towers Watson PLC (WTW)",
+        "Ticker": "WTW",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/caesars-entertainment-corp",
+        "Nombre": "Caesars Entertainment Corporation (CZR)",
+        "Ticker": "CZR",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/enphase-energy-inc",
+        "Nombre": "Enphase Energy Inc (ENPH)",
+        "Ticker": "ENPH",
+        "Industria": "Renewable Energy",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/delphi-automotive",
+        "Nombre": "Aptiv PLC (APTV)",
+        "Ticker": "APTV",
+        "Industria": "Automobiles & Auto Parts",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/crown-castle-int",
+        "Nombre": "Crown Castle International Corp (CCI)",
+        "Ticker": "CCI",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/epam-systems-inc",
+        "Nombre": "EPAM Systems Inc (EPAM)",
+        "Ticker": "EPAM",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/pentair",
+        "Nombre": "Pentair PLC (PNR)",
+        "Ticker": "PNR",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/mondelez-international-inc",
+        "Nombre": "Mondelez International Inc (MDLZ)",
+        "Ticker": "MDLZ",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/skyworks-solutions-inc",
+        "Nombre": "Skyworks Solutions Inc (SWKS)",
+        "Ticker": "SWKS",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/tractor-supply-company",
+        "Nombre": "Tractor Supply Company (TSCO)",
+        "Ticker": "TSCO",
+        "Industria": "Specialty Retailers",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/deckers-outdoor-corp",
+        "Nombre": "Deckers Outdoor Corporation (DECK)",
+        "Ticker": "DECK",
+        "Industria": "Textiles & Apparel",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/lululemon-athletica",
+        "Nombre": "Lululemon Athletica Inc (LULU)",
+        "Ticker": "LULU",
+        "Industria": "Textiles & Apparel",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/regeneron-phar.",
+        "Nombre": "Regeneron Pharmaceuticals Inc (REGN)",
+        "Ticker": "REGN",
+        "Industria": "Biotechnology & Medical Research",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/united-rentals",
+        "Nombre": "United Rentals Inc (URI)",
+        "Ticker": "URI",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/kinder-morgan",
+        "Nombre": "Kinder Morgan Inc (KMI)",
+        "Ticker": "KMI",
+        "Industria": "Oil & Gas Related Equipment and Services",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/albemarle",
+        "Nombre": "Albemarle Corp (ALB)",
+        "Ticker": "ALB",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/centene",
+        "Nombre": "Centene Corp (CNC)",
+        "Ticker": "CNC",
+        "Industria": "Healthcare Providers & Services",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/phillips-66-ltd",
+        "Nombre": "Phillips 66 (PSX)",
+        "Ticker": "PSX",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/xylem",
+        "Nombre": "Xylem Inc (XYL)",
+        "Ticker": "XYL",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/udr",
+        "Nombre": "UDR Inc (UDR)",
+        "Ticker": "UDR",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/sba-communications-corp",
+        "Nombre": "SBA Communications Corp (SBAC)",
+        "Ticker": "SBAC",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/gartner",
+        "Nombre": "Gartner Inc (IT)",
+        "Ticker": "IT",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/idex",
+        "Nombre": "IDEX Corporation (IEX)",
+        "Ticker": "IEX",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/universal-health-services",
+        "Nombre": "Universal Health Services Inc (UHS)",
+        "Ticker": "UHS",
+        "Industria": "Healthcare Providers & Services",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/lkq",
+        "Nombre": "LKQ Corporation (LKQ)",
+        "Ticker": "LKQ",
+        "Industria": "Automobiles & Auto Parts",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/broadridge-financial-solutions",
+        "Nombre": "Broadridge Financial Solutions Inc (BR)",
+        "Ticker": "BR",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/extra-space-storage",
+        "Nombre": "Extra Space Storage Inc (EXR)",
+        "Ticker": "EXR",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/camden-property-tr",
+        "Nombre": "Camden Property Trust (CPT)",
+        "Ticker": "CPT",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/mohawk-industries",
+        "Nombre": "Mohawk Industries Inc (MHK)",
+        "Ticker": "MHK",
+        "Industria": "Household Goods",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/american-water-works-inc",
+        "Nombre": "American Water Works (AWK)",
+        "Ticker": "AWK",
+        "Industria": "Water & Related Utilities",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/alliant-energy",
+        "Nombre": "Alliant Energy Corp (LNT)",
+        "Ticker": "LNT",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/celanese",
+        "Nombre": "Celanese Corporation (CE)",
+        "Ticker": "CE",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/bunge",
+        "Nombre": "Bunge Limited (BG)",
+        "Ticker": "BG",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ametek-inc",
+        "Nombre": "Ametek Inc (AME)",
+        "Ticker": "AME",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/wr-berkley-corp",
+        "Nombre": "W. R. Berkley Corp (WRB)",
+        "Ticker": "WRB",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/lyondellbasell-industries",
+        "Nombre": "LyondellBasell Industries NV (LYB)",
+        "Ticker": "LYB",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/royal-caribbean",
+        "Nombre": "Royal Caribbean Cruises Ltd (RCL)",
+        "Ticker": "RCL",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/fleetcor-tech",
+        "Nombre": "Corpay Inc (CPAY)",
+        "Ticker": "CPAY",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/packaging-corp",
+        "Nombre": "Packaging Corp of America (PKG)",
+        "Ticker": "PKG",
+        "Industria": "Containers & Packaging",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/arthur-j.-gallagher---co",
+        "Nombre": "Arthur J Gallagher & Co (AJG)",
+        "Ticker": "AJG",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/church---dwight",
+        "Nombre": "Church & Dwight Company Inc (CHD)",
+        "Ticker": "CHD",
+        "Industria": "Personal & Household Products & Services",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/generac-holdings",
+        "Nombre": "Generac Holdings Inc (GNRC)",
+        "Ticker": "GNRC",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/global-payments",
+        "Nombre": "Global Payments Inc (GPN)",
+        "Ticker": "GPN",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/realty-income",
+        "Nombre": "Realty Income Corp (O)",
+        "Ticker": "O",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/a.o-smith-corp",
+        "Nombre": "Smith AO Corporation (AOS)",
+        "Ticker": "AOS",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/arch-capital-group",
+        "Nombre": "Arch Capital Group Ltd (ACGL)",
+        "Ticker": "ACGL",
+        "Industria": "Insurance",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cboe-holdings-inc",
+        "Nombre": "Cboe Global Markets Inc (CBOE)",
+        "Ticker": "CBOE",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/copart-inc",
+        "Nombre": "Copart Inc (CPRT)",
+        "Ticker": "CPRT",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/old-dominion-freight-line-inc",
+        "Nombre": "Old Dominion Freight Line Inc (ODFL)",
+        "Ticker": "ODFL",
+        "Industria": "Freight & Logistics Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/synopsys-inc",
+        "Nombre": "Synopsys Inc (SNPS)",
+        "Ticker": "SNPS",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/trimble-navigation-ltd",
+        "Nombre": "Trimble Inc (TRMB)",
+        "Ticker": "TRMB",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ulta-salon-cosmetics---fragrance",
+        "Nombre": "Ulta Beauty Inc (ULTA)",
+        "Ticker": "ULTA",
+        "Industria": "Specialty Retailers",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/verisk-analytics-inc",
+        "Nombre": "Verisk Analytics Inc (VRSK)",
+        "Ticker": "VRSK",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/abbvie-inc",
+        "Nombre": "AbbVie Inc (ABBV)",
+        "Ticker": "ABBV",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/diamondback-energy-inc",
+        "Nombre": "Diamondback Energy Inc (FANG)",
+        "Ticker": "FANG",
+        "Industria": "Oil & Gas",
+        "Sector": "Energy"
+    },
+    {
+        "URL": "https://www.investing.com/equities/norwegian-cruise-line-holdings-ltd",
+        "Nombre": "Norwegian Cruise Line Holdings Ltd (NCLH)",
+        "Ticker": "NCLH",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/zoetis-inc",
+        "Nombre": "Zoetis Inc (ZTS)",
+        "Ticker": "ZTS",
+        "Industria": "Pharmaceuticals",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/quintis-trl-hlgs",
+        "Nombre": "IQVIA Holdings Inc (IQV)",
+        "Ticker": "IQV",
+        "Industria": "Biotechnology & Medical Research",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/servicenow-inc",
+        "Nombre": "ServiceNow Inc (NOW)",
+        "Ticker": "NOW",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/palo-alto-netwrk",
+        "Nombre": "Palo Alto Networks Inc (PANW)",
+        "Ticker": "PANW",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/kkr---co-lp",
+        "Nombre": "KKR & Co LP (KKR)",
+        "Ticker": "KKR",
+        "Industria": "Investment Banking & Investment Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/cdw-corp",
+        "Nombre": "CDW Corp (CDW)",
+        "Ticker": "CDW",
+        "Industria": "Integrated Hardware & Software",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/hilton-worldwide",
+        "Nombre": "Hilton Worldwide Holdings Inc (HLT)",
+        "Ticker": "HLT",
+        "Industria": "Hotels & Entertainment Services",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/allegion-public",
+        "Nombre": "Allegion PLC (ALLE)",
+        "Ticker": "ALLE",
+        "Industria": "Communications & Networking",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/google-inc-c",
+        "Nombre": "Alphabet Inc Class C (GOOG)",
+        "Ticker": "GOOG",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/paycom-soft",
+        "Nombre": "Paycom Soft (PAYC)",
+        "Ticker": "PAYC",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/arista-networks",
+        "Nombre": "Arista Networks (ANET)",
+        "Ticker": "ANET",
+        "Industria": "Communications & Networking",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/synchrony-fin",
+        "Nombre": "Synchrony Financial (SYF)",
+        "Ticker": "SYF",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/citizens-financial-group-inc",
+        "Nombre": "Citizens Financial Group Inc (CFG)",
+        "Ticker": "CFG",
+        "Industria": "Banking Services",
+        "Sector": "Financials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/keysight-technologies",
+        "Nombre": "Keysight Technologies Inc (KEYS)",
+        "Ticker": "KEYS",
+        "Industria": "Electronic Equipment & Parts",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/qorvo-inc",
+        "Nombre": "Qorvo Inc (QRVO)",
+        "Ticker": "QRVO",
+        "Industria": "Semiconductors & Semiconductor Equipment",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/godaddy-inc",
+        "Nombre": "Godaddy Inc (GDDY)",
+        "Ticker": "GDDY",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/paypal-holdings-inc",
+        "Nombre": "PayPal Holdings Inc (PYPL)",
+        "Ticker": "PYPL",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/hewlett-packard-enterprise-co",
+        "Nombre": "Hewlett Packard Enterprise Co (HPE)",
+        "Ticker": "HPE",
+        "Industria": "Computers, Phones & Household Electronics",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/match-group-inc",
+        "Nombre": "Match Group Inc (MTCH)",
+        "Ticker": "MTCH",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/fortive-corp",
+        "Nombre": "Fortive Corp (FTV)",
+        "Ticker": "FTV",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/lamb-weston-holdings-inc",
+        "Nombre": "Lamb Weston Holdings Inc (LW)",
+        "Ticker": "LW",
+        "Industria": "Food & Tobacco",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/invitation-homes-inc",
+        "Nombre": "Invitation Homes Inc (INVH)",
+        "Ticker": "INVH",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/vistra-energy-corp",
+        "Nombre": "Vistra Energy Corp (VST)",
+        "Ticker": "VST",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/vici-properties",
+        "Nombre": "VICI Properties Inc (VICI)",
+        "Ticker": "VICI",
+        "Industria": "Residential & Commercial REITs",
+        "Sector": "Real Estate"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ceridian-hcm-holding-inc",
+        "Nombre": "Dayforce Inc (DAY)",
+        "Ticker": "DAY",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/moderna",
+        "Nombre": "Moderna Inc (MRNA)",
+        "Ticker": "MRNA",
+        "Industria": "Biotechnology & Medical Research",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/uber-technologies-inc",
+        "Nombre": "Uber Technologies Inc (UBER)",
+        "Ticker": "UBER",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/fox-corp",
+        "Nombre": "Fox Corp Class A (FOXA)",
+        "Ticker": "FOXA",
+        "Industria": "Media & Publishing",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/fox-corp-b",
+        "Nombre": "Fox Corp Class B (FOX)",
+        "Ticker": "FOX",
+        "Industria": "Media & Publishing",
+        "Sector": "Consumer Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/crowdstrike-holdings-inc",
+        "Nombre": "CrowdStrike Holdings Inc (CRWD)",
+        "Ticker": "CRWD",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/corteva",
+        "Nombre": "Corteva Inc (CTVA)",
+        "Ticker": "CTVA",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/amcor-plc",
+        "Nombre": "Amcor (AMCR)",
+        "Ticker": "AMCR",
+        "Industria": "Containers & Packaging",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/trane-technologies-plc",
+        "Nombre": "Trane Technologies plc (TT)",
+        "Ticker": "TT",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/otis-worldwide-corp",
+        "Nombre": "Otis Worldwide Corp (OTIS)",
+        "Ticker": "OTIS",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/carrier-global-corp",
+        "Nombre": "Carrier Global Corp (CARR)",
+        "Ticker": "CARR",
+        "Industria": "Machinery, Tools, Heavy Vehicles, Trains & Ships",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/howmet-aerospace-inc",
+        "Nombre": "Howmet Aerospace Inc (HWM)",
+        "Ticker": "HWM",
+        "Industria": "Aerospace & Defense",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/palantir-technologies-inc",
+        "Nombre": "Palantir Technologies Inc (PLTR)",
+        "Ticker": "PLTR",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/airbnb-inc",
+        "Nombre": "Airbnb Inc (ABNB)",
+        "Ticker": "ABNB",
+        "Industria": "Software & IT Services",
+        "Sector": "Technology"
+    },
+    {
+        "URL": "https://www.investing.com/equities/constellation-energy",
+        "Nombre": "Constellation Energy Corp (CEG)",
+        "Ticker": "CEG",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ge-healthcare-holding-llc",
+        "Nombre": "GE HealthCare Technologies Inc (GEHC)",
+        "Ticker": "GEHC",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/kenvue-inc",
+        "Nombre": "Kenvue Inc (KVUE)",
+        "Ticker": "KVUE",
+        "Industria": "Personal & Household Products & Services",
+        "Sector": "Consumer Non-Cyclicals"
+    },
+    {
+        "URL": "https://www.investing.com/equities/veralto",
+        "Nombre": "Veralto Corp (VLTO)",
+        "Ticker": "VLTO",
+        "Industria": "Professional & Commercial Services",
+        "Sector": "Industrials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/linde-plc?cid=1208282",
+        "Nombre": "Linde PLC (LIN)",
+        "Ticker": "LIN",
+        "Industria": "Chemicals",
+        "Sector": "Basic Materials"
+    },
+    {
+        "URL": "https://www.investing.com/equities/ge-vernova-llc",
+        "Nombre": "GE Vernova LLC (GEV)",
+        "Ticker": "GEV",
+        "Industria": "Electrical Utilities & IPPs",
+        "Sector": "Utilities"
+    },
+    {
+        "URL": "https://www.investing.com/equities/solventum",
+        "Nombre": "Solventum Corp (SOLV)",
+        "Ticker": "SOLV",
+        "Industria": "Healthcare Equipment & Supplies",
+        "Sector": "Healthcare"
+    },
+    {
+        "URL": "https://www.investing.com/equities/amentum-holdings-llc",
+        "Nombre": "Amentum Holdings LLC (AMTM)",
+        "Ticker": "AMTM",
+        "Industria": "Construction & Engineering",
+        "Sector": "Industrials"
+    }
+]
