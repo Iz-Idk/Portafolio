@@ -68,7 +68,7 @@ def _getStockTickersDataFrameByCountry(countryId):
         except:
             break
 
-        time.sleep(5)
+        time.sleep(1)
         pageIndex += 1
 
     return tickerDf
@@ -133,7 +133,7 @@ async def _run(playwright: Playwright, name):
 
     # Navigating to specific page
     await page.goto(
-            "https://mx.investing.com/etfs/mexico-etfs?&issuer_filter=0",
+            "https://mx.investing.com/etfs/usa-etfs?&issuer_filter=0",
             wait_until="domcontentloaded"
         )
     
@@ -161,6 +161,7 @@ def _getETFTickersDataFrameByCountry(name):
 
 def saveETFTickersByCountry(county_id):
     countryDict = {
+        5: "USA",
         7: "Mexico"
     }
 
@@ -179,6 +180,7 @@ def saveETFTickersByCountry(county_id):
 
 def saveStockTickersByCountry(county_id):
     countryDict = {
+        5: "USA",
         7: "Mexico"
     }
 
